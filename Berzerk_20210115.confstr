@@ -1,0 +1,17 @@
+ 0: A.BERZERK
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: -
+ 5: O89,Bonus Life,None,5000,10000,5000 and 10000
+ 6: OAB,Language,English,German,French,Spanish
+ 7: OC,Cabinet,Upright,Cocktail
+ 8: OD,Color Test,Off,On
+ 9: OH,Input Test,Off,On
+10: OI,Crosshair Pattern,Off,On
+11: OG,Color Mode,Bright,Dark
+12: -
+13: R0,Reset
+14: J1,Fire,Start 1P,Start 2P,Coin
+15: jn,A,Start,Select,R
+16: V,v210115

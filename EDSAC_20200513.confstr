@@ -1,0 +1,11 @@
+ 0: EDSAC
+ 1: (null)
+ 2: -
+ 3: F1,TAP,Load tape
+ 4: -
+ 5: OG,Tape Reader Speed,Normal,Fast
+ 6: OF,Initial Orders ver,2,1
+ 7: OE,Tank group,One,Two
+ 8: O36,Memory Tank,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ 9: O1,Aspect Ratio,16:9,4:3
+10: V,v0.3.200513

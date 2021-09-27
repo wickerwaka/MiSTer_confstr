@@ -1,0 +1,20 @@
+ 0: ODYSSEY2
+ 1: (null)
+ 2: -
+ 3: F1,BIN,Load catridge
+ 4: F2,ROM,Load XROM
+ 5: -
+ 6: F3,CHR,Change VDC font
+ 7: -
+ 8: OF,System,Odyssey2,Videopac
+ 9: OCE,G7200,Off,Contrast 1,Contrast 2,Contrast 3,Contrast 4,Contrast 5,Contrast 6,Contrast 7
+10: OIJ,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+11: O9B,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+12: O1,The Voice,Off,On
+13: O23,Audio,voice(R)/Console(L),25%,50%,Center mixed
+14: -
+15: O7,Swap Joysticks,No,Yes
+16: -
+17: R0,Reset
+18: J,Action,Reset,1,2,3,4,5,6,7,8,9,0
+19: V,v210530

@@ -1,0 +1,24 @@
+ 0: A.BMBJCK
+ 1: (null)
+ 2: H0OLM,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: ON,Flip Screen,Off,On
+ 7: O7,Demo Sounds,On,Off
+ 8: O89,Lives,3,4,5,2
+ 9: OAB,Bonus,500k,750k
+10: OC,Cabinet,Upright,Cocktail
+11: ODE,Enemy num & speed,Easy,Medium,Hard,Insane
+12: OIJ,Bird Speed,Easy,Medium,Hard,Insane
+13: OFH,Bonus Life,None,Every 100k,Every 30k,50k only,100k only,50k and 100k,100k and 300k,50k and 100k and 300k
+14: -
+15: H1OR,Autosave Hiscores,Off,On
+16: P1,Pause options
+17: P1OP,Pause when OSD is open,On,Off
+18: P1OQ,Dim video after 10s,On,Off
+19: -
+20: R0,Reset
+21: J1,Jump,Start 1P,Start 2P,Coin,Pause
+22: jn,A,Start,Select,R,L
+23: V,v210828

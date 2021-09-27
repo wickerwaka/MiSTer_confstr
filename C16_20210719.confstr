@@ -1,0 +1,32 @@
+ 0: C16
+ 1: (null)
+ 2: S0,D64G64,Mount #8
+ 3: S1,D64G64,Mount #9
+ 4: -
+ 5: h4F1,PRGTAPBIN,Load
+ 6: H4F1,PRGTAP,Load
+ 7: -
+ 8: h3RG,Tape Play/Pause
+ 9: h3RI,Tape Unload
+10: h3OH,Tape Sound,Off,On
+11: h3OA,Tape Autoplay,Yes,No
+12: h3-
+13: O5,Joysticks swap,No,Yes
+14: -
+15: OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+16: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+17: O78,TV Standard,from Kernal,Force PAL,Force NTSC
+18: H2d1ON,Vertical Crop,No,Yes
+19: h2d1ONO,Vertical Crop,No,270,216
+20: OPQ,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+21: -
+22: ODE,SID card,Disabled,6581,8580
+23: OB,External IEC,Disabled,Enabled
+24: -
+25: O9,Model,C16,Plus/4
+26: D0O6,Kernal,Loaded,Original
+27: FC3,ROM,Load Kernal
+28: -
+29: R0,Reset & Apply
+30: J,Fire
+31: V,v210719

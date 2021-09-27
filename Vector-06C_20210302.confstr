@@ -1,0 +1,23 @@
+ 0: VECTOR06
+ 1: (null)
+ 2: -
+ 3: F,ROMCOMC00EDD
+ 4: -
+ 5: S0,FDD,Mount Disk A
+ 6: S1,FDD,Mount Disk B
+ 7: -
+ 8: OBC,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 9: O12,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+10: O7,Reset Palette,Yes,No
+11: -
+12: d0OF,Vertical Crop,Disabled,270p(5x)
+13: ODE,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+14: -
+15: O9A,Stereo mix,none,25%,50%,100%
+16: -
+17: O4,CPU Speed,3MHz,6MHz
+18: O5,CPU Type,i8080,Z80
+19: -
+20: R6,Cold Reboot
+21: J,Fire 1,Fire 2
+22: V,v210302

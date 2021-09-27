@@ -1,0 +1,12 @@
+ 0: Chip8
+ 1: (null)
+ 2: -
+ 3: F,CH8
+ 4: -
+ 5: O4,Aspect ratio,4:3,16:9
+ 6: O8A,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 7: -
+ 8: O2,CPU Speed,Fast,Slow
+ 9: -
+10: R0,Reset
+11: V,v200205

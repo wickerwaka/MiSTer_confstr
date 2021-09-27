@@ -1,0 +1,25 @@
+ 0: A.PENGO
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: O7,Flip Screen,Off,On
+ 6: OQS,CRT Hsync Adjust,0,1,2,3,4,5,6,7
+ 7: OTV,CRT Vsync Adjust,0,1,2,3,4,5,6,7
+ 8: -
+ 9: O89,Lives,2,3,4,5
+10: OA,Bonus,30000,50000
+11: OC,Cabinet,Upright,Cocktail
+12: OD,Demo Sounds,On,Off
+13: OE,Test,Off,On
+14: OFG,Difficulty,Easy,Medium,Hard,Hardest
+15: -
+16: H2OP,Autosave Hiscores,Off,On
+17: P1,Pause options
+18: P1ON,Pause when OSD is open,On,Off
+19: P1OO,Dim video after 10s,On,Off
+20: -
+21: R0,Reset
+22: J1,Kick,Start 1P,Start 2P,Coin,Pause
+23: jn,A,Start,Select,R,L
+24: V,v210917

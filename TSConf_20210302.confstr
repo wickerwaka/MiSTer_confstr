@@ -1,0 +1,28 @@
+ 0: TSConf
+ 1: (null)
+ 2: S,VHD,Mount virtual SD
+ 3: -
+ 4: o01,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 5: O12,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+ 6: -
+ 7: d0o2,Vertical Crop,Disabled,270p(5x)
+ 8: o34,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+ 9: -
+10: O34,Stereo mix,None,25%,50%,100%
+11: OST,General Sound,512KB,1MB,2MB
+12: -
+13: OU,CPU Type,NMOS,CMOS
+14: O67,CPU Speed,3.5MHz,7MHz,14MHz
+15: O8,CPU Cache,On,Off
+16: O9A,#7FFD span,128K,128K Auto,1024K,512K
+17: OLN,ZX Palette,Default,B.black,Light,Pale,Dark,Grayscale,Custom
+18: OPR,INT Offset,1,2,3,4,5,6,7,0
+19: -
+20: OBD,F11 Reset,boot.$C,sys.rom,ROM
+21: OEF,           bank,TR-DOS,Basic 48,Basic 128,SYS
+22: OGI,Shift+F11 Reset,ROM,boot.$C,sys.rom
+23: OJK,           bank,Basic 128,SYS,TR-DOS,Basic 48
+24: -
+25: R0,Reset and apply settings
+26: J,Fire 1,Fire 2
+27: V,v210302

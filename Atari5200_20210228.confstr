@@ -1,0 +1,19 @@
+ 0: ATARI5200
+ 1: (null)
+ 2: -
+ 3: S,CARA52BINROM,Load Cart
+ 4: -
+ 5: O79,CPU Speed,1x,2x,4x,8x,16x
+ 6: -
+ 7: OMN,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 8: OHJ,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 9: -
+10: d0OO,Vertical Crop,Disabled,216p(5x)
+11: d0OPS,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+12: OTU,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+13: -
+14: O34,Stereo mix,None,25%,50%,100%
+15: -
+16: R0,Reset
+17: J1,Fire 1,Fire 2,*,#,Start,Pause,Reset,0,1,2,3,4,5,6,7,8,9
+18: V,v210228

@@ -1,0 +1,34 @@
+ 0: TI-99_4A
+ 1: (null)
+ 2: F,BIN,Load Full or C.bin
+ 3: F,BIN,Load D.bin
+ 4: F,BIN,Load G.bin
+ 5: F,BIN,Load Mega Cart
+ 6: S0,DSK,Drive 1
+ 7: S1,DSK,Drive 2
+ 8: -
+ 9: OIK,Cart Type,Normal,MBX,Paged7,UberGrom,Paged379,MiniMem
+10: -
+11: D0P1,Mini Mem
+12: P1S2,DAT,NVRAM File
+13: P1rS,Load NVRAM
+14: P1rT,Save NVRAM
+15: P2,Video Settings
+16: P2OD,Video Mode,NTSC, PAL
+17: P2O79,Scandoubler Fx,None,HQ2x-320,CRT 25%,CRT 50%,CRT 75%
+18: P2O56,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+19: P2O1,Aspect Ratio,Original,Full Screen
+20: D1P2o8,Vertical Crop,No,Yes
+21: -
+22: OM,SAMS Memory,Off,On
+23: OE,Scratchpad RAM,256B,1KB
+24: OA,Turbo,Off,On
+25: OGH,Speech,Off,5220,5200
+26: OC,Arrow Keys,Cursor, Joystick
+27: OF,Alpha Lock on Power Up, Off, On
+28: OB,Swap joysticks,NO,YES
+29: -
+30: R0,Reset
+31: -
+32: J,Fire 1,Fire 2,1,2,3,Enter,Back,Redo
+33: V,v210828

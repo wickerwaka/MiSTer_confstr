@@ -1,0 +1,29 @@
+ 0: ATARI800
+ 1: (null)
+ 2: -
+ 3: S0,ATRXEXXFDATX,Mount D1
+ 4: S1,ATRXEXXFDATX,Mount D2
+ 5: S2,CARROMBIN,Load Cart
+ 6: -
+ 7: OL,Swap Joysticks,No,Yes
+ 8: -
+ 9: O79,CPU Speed,1x,2x,4x,8x,16x
+10: OAC,Drive Speed,Standard,Fast-6,Fast-5,Fast-4,Fast-3,Fast-2,Fast-1,Fast-0
+11: -
+12: O12,BIOS,XL+Basic,XL,OS-A,OS-B
+13: ODF,RAM,64K,128K,320K(Compy),320K(Rambo),576K(Compy),576K(Rambo),1MB,4MB
+14: -
+15: O5,Video mode,PAL,NTSC
+16: OMN,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+17: OHJ,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+18: -
+19: d0OO,Vertical Crop,Disabled,216p(5x)
+20: d0OPS,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+21: OTU,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+22: -
+23: OK,Dual Pokey,No,Yes
+24: O34,Stereo mix,None,25%,50%,100%
+25: -
+26: R0,Reset
+27: J,Fire 1,Fire 2,Fire 3,Paddle LT,Paddle RT
+28: V,v210228

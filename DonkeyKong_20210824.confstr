@@ -1,0 +1,19 @@
+ 0: A.DKONG
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H1H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: H1O7,Flip Screen,Off,On
+ 6: OOS,Analog Video H-Pos,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+ 7: OTV,Analog Video V-Pos,0,1,2,3,4,5,6,7
+ 8: -
+ 9: DIP
+10: -
+11: P1,Pause options
+12: P1OL,Pause when OSD is open,On,Off
+13: P1OM,Dim video after 10s,On,Off
+14: -
+15: R0,Reset
+16: J1,Jump,Start 1P,Start 2P,Coin,Pause
+17: jn,A,Start,Select,R,L
+18: V,v210824

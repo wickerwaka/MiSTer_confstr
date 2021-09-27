@@ -1,0 +1,22 @@
+ 0: A.BREAKOUT
+ 1: (null)
+ 2: -
+ 3: H0O23,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: O46,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: H0O7,Orientation,Vert,Horiz
+ 6: OR,VSYNC,TV Compatible,Original
+ 7: -
+ 8: DIP
+ 9: -
+10: OFH,Control P1,Digital,X,Y,Paddle,Spinner
+11: O8,Control P1 Invert,No,Yes
+12: OIK,Control P2,Digital,X,Y,Paddle,Spinner
+13: O9,Control P2 Invert,No,Yes
+14: -
+15: ON,Digital Paddle Speed,Slow,Fast
+16: OPQ,Spinner Paddle Speed,Slow,Medium,Fast
+17: -
+18: R0,Reset
+19: J1,Coin,Start1P,Start2P,Serve
+20: jn,R,Start,Select,A|P
+21: V,v210618

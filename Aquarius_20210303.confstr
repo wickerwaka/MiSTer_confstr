@@ -1,0 +1,18 @@
+ 0: AQUARIUS
+ 1: (null)
+ 2: -
+ 3: F,BIN,Load Cartridge
+ 4: F,CAQ,Load Tape
+ 5: O9,Fast loading,No,Yes
+ 6: -
+ 7: OAB,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 8: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 9: OCD,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+10: -
+11: O56,CPU Speed,Normal,x2,x4,x8
+12: O78,RAM expansion,16KB,32KB,None,4KB
+13: -
+14: R0,Reset
+15: -
+16: J,K1,K2,K3,K4,K5,K6
+17: V,v210303

@@ -1,0 +1,24 @@
+ 0: ZXNext
+ 1: (null)
+ 2: S0,VHD,Mount C:
+ 3: S1,VHD,Mount D:
+ 4: O1,Hard Reset on C: mount,No,Yes
+ 5: -
+ 6: F1,TZXCSW,Load Tape,30000000
+ 7: -
+ 8: O78,Aspect Ratio,Original,Full Screen,[ARC1],[ARC2]
+ 9: O56,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+10: H2d1OS,Vertical Crop,No,Yes
+11: h2d1OST,Vertical Crop,No,270,216
+12: OQR,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+13: O34,Stereo Mix,none,25%,50%,100%
+14: O2,Joysticks Swap,No,Yes
+15: -
+16: h3TA,CPU Clock:           3.5MHz
+17: h4TA,CPU Clock:             7MHz
+18: h5TA,CPU Clock:            14MHz
+19: h6TA,CPU Clock:            28MHz
+20: R0,Soft Reset
+21: R9,Hard Reset
+22: J,A,B,C,X,Y,Z,Start
+23: V,v210409

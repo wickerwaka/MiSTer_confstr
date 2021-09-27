@@ -1,0 +1,10 @@
+ 0: A.COMSPC
+ 1: (null)
+ 2: -
+ 3: O34,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: O2,Color,No,Yes
+ 5: -
+ 6: R0,Reset
+ 7: J1,Thrust,Fire,Start
+ 8: jn,B,A,Start
+ 9: V,v210113

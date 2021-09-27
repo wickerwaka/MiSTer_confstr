@@ -1,0 +1,14 @@
+ 0: A.PONG
+ 1: (null)
+ 2: -
+ 3: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: O8,Max Points,11,15
+ 7: O9A,Control P1,Y,X,Inv-X,Paddle
+ 8: OBC,Control P2,Y,X,Inv-X,Paddle
+ 9: -
+10: R0,Reset
+11: J1,Start
+12: jn,Start
+13: V,v210118

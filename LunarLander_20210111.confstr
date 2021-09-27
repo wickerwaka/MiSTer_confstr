@@ -1,0 +1,14 @@
+ 0: A.LLANDER
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: -
+ 4: OD,Thruster,Analog Stick,D-Pad
+ 5: -
+ 6: O7,Test,Off,On
+ 7: O89,Language,English,Spanish,French,German
+ 8: OAC,Fuel,450,600,750,900,1100,1300,1550,1800
+ 9: -
+10: R0,Reset
+11: J1,Start,Select,Coin,Abort,Turn Right,Turn Left
+12: jn,Start,Select,X,A,L,R
+13: V,v210112

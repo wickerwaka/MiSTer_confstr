@@ -1,0 +1,9 @@
+ 0: GameOfLife
+ 1: (null)
+ 2: -
+ 3: F1,MEM,Load board
+ 4: -
+ 5: O3,Running,Yes,No
+ 6: O2,Seed,Off,On
+ 7: O1,Aspect Ratio,16:9,4:3
+ 8: V,v0.1.200430

@@ -1,0 +1,19 @@
+ 0: A.BTIME
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: O7,Flip Screen,Off,On
+ 6: O8,Video timing,Original,59.8Hz
+ 7: -
+ 8: H1OR,Autosave Hiscores,Off,On
+ 9: P1,Pause options
+10: P1OP,Pause when OSD is open,On,Off
+11: P1OQ,Dim video after 10s,On,Off
+12: -
+13: DIP
+14: -
+15: R0,Reset
+16: J1,Fire,Start 1P,Start 2P,Coin,Pause
+17: jn,A,Start,Select,R,L
+18: V,v210828

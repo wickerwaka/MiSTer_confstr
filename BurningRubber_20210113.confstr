@@ -1,0 +1,18 @@
+ 0: A.BRUBBR
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: O8,Lives,3,5
+ 7: O9A,Bonus,Every 30k,Every 70k,20k only, 30konly
+ 8: OB,Allow Continue,Yes,No
+ 9: OF,Difficulty,Easy,Hard
+10: OC,Cabinet,Upright,Cocktail
+11: OD,Hatch,Off,On
+12: OE,Test,Off,On
+13: -
+14: R0,Reset
+15: J1,Fire,Start 1P,Start 2P,Coin
+16: jn,A,Start,Select,R
+17: V,v210114

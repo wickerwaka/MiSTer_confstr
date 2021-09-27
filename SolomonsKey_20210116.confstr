@@ -1,0 +1,20 @@
+ 0: A.SolmnsKey
+ 1: (null)
+ 2: H0O12,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: -
+ 5: O89,Difficulty,Normal,Middle,Easy,Hard
+ 6: OAB,Lives,3,5,4,2
+ 7: OCD,Timer Speed,Normal,Faster,Slow,Fastest
+ 8: OE,Extra,Normal,Difficult
+ 9: OGI,Bonus Life,30k 200k 500k,30k,30k 200k,200k,100k 300k 800k,100k,100k 300k,None
+10: -
+11: OF,Demo Sound,On,Off
+12: -
+13: OOS,Analog Video H-Pos,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+14: OTV,Analog Video V-Pos,0,1,2,3,4,5,6,7
+15: -
+16: R0,Reset
+17: J1,Trig1,Trig2,Start 1P,Start 2P,Coin
+18: jn,A,B,Start,Select,R
+19: V,v210117

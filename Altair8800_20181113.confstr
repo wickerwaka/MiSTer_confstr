@@ -1,0 +1,9 @@
+ 0: Altair8800
+ 1: (null)
+ 2: -
+ 3: O79,Select Program,Empty,zeroToseven,KillBits,SIOEcho,StatusLights,Basic4k32
+ 4: T6,Load Program
+ 5: OA,Enable TurnMon,No,Yes
+ 6: T0,Reset
+ 7: -
+ 8: V,v1.1.181113

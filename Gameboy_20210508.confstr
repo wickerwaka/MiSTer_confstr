@@ -1,0 +1,46 @@
+ 0: GAMEBOY
+ 1: SS3E000000:40000
+ 2: FS1,GBCGB ,Load ROM
+ 3: OEF,System,Auto,Gameboy,Gameboy Color
+ 4: ONO,Super Game Boy,Off,Palette,On
+ 5: d5FC2,SGB,Load SGB border
+ 6: -
+ 7: C,Cheats
+ 8: h0OH,Cheats enabled,Yes,No
+ 9: -
+10: h2R9,Load Backup RAM
+11: h2RA,Save Backup RAM
+12: OD,Autosave,Off,On
+13: -
+14: OV,Savestates to SDCard,On,Off
+15: o01,Savestate Slot,1,2,3,4
+16: h3RS,Save state (Alt-F1)
+17: h3RT,Restore state (F1)
+18: -
+19: P1,Audio & Video
+20: P1-
+21: P1OC,Inverted color,No,Yes
+22: P1O12,Custom Palette,Off,Auto,On
+23: h1P1FC3,GBP,Load Palette
+24: P1-
+25: P1O34,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+26: P1OLM,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+27: P1OIK,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+28: P1O5,Stabilize video(buffer),Off,On
+29: P1OG,Frame blend,Off,On
+30: d4P1OU,GBC Colors,Corrected,Raw
+31: P1-
+32: P1O78,Stereo mix,none,25%,50%,100%
+33: P2,Misc.
+34: P2-
+35: P2OB,Boot,Normal,Fast
+36: P2O6,Link Port,Disabled,Enabled
+37: P2-
+38: P2OP,FastForward Sound,On,Off
+39: P2OQ,Pause when OSD is open,Off,On
+40: P2OR,Rewind Capture,Off,On
+41: -
+42: R0,Reset
+43: J1,A,B,Select,Start,FastForward,Savestates,Rewind
+44: I,Slot=DPAD|Save/Load=Pause+DPAD,Active Slot 1,Active Slot 2,Active Slot 3,Active Slot 4,Save to state 1,Restore state 1,Save to state 2,Restore state 2,Save to state 3,Restore state 3,Save to state 4,Restore state 4,Rewinding...
+45: V,v210508

@@ -1,0 +1,25 @@
+ 0: MSX
+ 1: (null)
+ 2: S,VHD
+ 3: OE,Reset after Mount,No,Yes
+ 4: -
+ 5: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 6: O23,Scanlines,No,25%,50%,75%
+ 7: -
+ 8: OF,Vertical Crop,No,Yes
+ 9: OGH,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+10: -
+11: O1,CPU speed,Normal,Turbo(+F11)
+12: OB,CPU type,Z80,R800
+13: -
+14: O4,Slot1,Empty,MegaSCC+ 1MB
+15: O56,Slot2,Empty,MegaSCC+ 2MB,MegaRAM ASCII-8K 1MB,MegaRAM ASCII-16K 2MB
+16: -
+17: O7,Internal Mapper,2048KB RAM,4096KB RAM
+18: -
+19: OD,Joysticks Swap,No,Yes
+20: OC,Mouse,Port 1,Port 2
+21: -
+22: RA,Reset
+23: J,Fire 1,Fire 2
+24: V,v210227

@@ -1,0 +1,15 @@
+ 0: RX78
+ 1: (null)
+ 2: -
+ 3: F1,BIN,Load Cartridge
+ 4: -
+ 5: OA,Swap Joysticks,Off,On
+ 6: OB,EXT RAM,Off,On
+ 7: OC,Pause,Off,On
+ 8: -
+ 9: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+10: -
+11: R0,Reset
+12: J,Fire1,Fire2,Start
+13: jn,A,B,Start
+14: V,v210706

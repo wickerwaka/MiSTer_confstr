@@ -1,0 +1,20 @@
+ 0: A.SBRKOUT
+ 1: (null)
+ 2: -
+ 3: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: H0O2,Orientation,Vert,Horz
+ 5: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: -
+ 7: OHI,Control,Buttons,Analog Stick,Paddle
+ 8: -
+ 9: OAB,Language,English,German,French,Spanish
+10: OC,Balls,3,5
+11: O68,Bonus,200,400,600,900,1200,1600,2000,None
+12: OJK,Level,Progresive,Cavity,Double
+13: OL,Test,Off,On
+14: OG,Color,On,Off
+15: -
+16: R0,Reset
+17: J1,Serve,Start 1P,Start 2P,Coin
+18: jn,A,Start,Select,R
+19: V,v201211

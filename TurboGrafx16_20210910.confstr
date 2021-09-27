@@ -1,0 +1,54 @@
+ 0: TGFX16
+ 1: (null)
+ 2: FS0,PCEBIN,Load TurboGrafx
+ 3: FS1,SGX,Load SuperGrafx
+ 4: -
+ 5: S0,CUE,Insert CD
+ 6: -
+ 7: C,Cheats
+ 8: H1O5,Cheats enabled,ON,OFF
+ 9: -
+10: D0RG,Load Backup RAM
+11: D0R7,Save Backup RAM
+12: D0ON,Autosave,OFF,ON
+13: -
+14: P1,Audio & Video
+15: P1-
+16: P1OOP,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+17: P1O8A,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+18: P1-
+19: d6P1o0,Vertical Crop,Disabled,216p(5x)
+20: d6P1o14,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+21: P1o56,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+22: P1-
+23: P1OS,Colors,Original,Raw RGB
+24: P1OH,Overscan,Hidden,Visible
+25: P1OF,Border Color,Original,Black
+26: P1OB,Sprites per line,Normal,Extra
+27: P1-
+28: P1OK,CD Audio Boost,No,2x
+29: P1OM,ADPCM Audio Boost,No,Yes
+30: P1OIJ,Master Audio Boost,No,2x,4x
+31: P2,Hardware
+32: P2-
+33: P2O3,ROM Data Swap,No,Yes
+34: D4H2P2O6,ROM Storage,SDRAM,SDRAM
+35: D4H3P2O6,ROM Storage,DDR3,DDR3
+36: P2-
+37: P2OE,Arcade Card,Disabled,Enabled
+38: P2O1,CD Seek,Normal,Fast
+39: P2-
+40: P2OD,USER I/O,Off,SNAC
+41: H5P2OL,MB128,Disabled,Enabled
+42: P2-
+43: D0P2RC,Format Backup RAM
+44: -
+45: H5O2,Turbo Tap,Disabled,Enabled
+46: H5O4,Controller,2 Buttons,6 Buttons
+47: H5OQR,Special,None,Mouse,Pachinko
+48: H5-
+49: R0,Reset
+50: J1,Button I,Button II,Select,Run,Button III,Button IV,Button V,Button VI
+51: jn,A,B,Select,Start,X,Y,L,R
+52: jp,A,B,Select,Start,L,R,Y,X
+53: V,v210910

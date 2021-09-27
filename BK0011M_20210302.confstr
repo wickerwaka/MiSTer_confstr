@@ -1,0 +1,27 @@
+ 0: BK0011M
+ 1: (null)
+ 2: F,BIN
+ 3: D2S1,DSK,Mount FDD(A)
+ 4: D2S2,DSK,Mount FDD(B)
+ 5: D2S0,VHD,Mount HDD
+ 6: -
+ 7: O3,Monochrome,No,Yes
+ 8: ODE,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 9: O78,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+10: OFG,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+11: -
+12: OAB,Stereo mix,none,25%,50%,100%
+13: OC,Sound mode,PSG,Covox
+14: -
+15: O5,Model,BK0011M,BK0010
+16: H0O1,CPU Speed,4MHz,8MHz
+17: H1O1,CPU Speed,3MHz,6MHz
+18: -
+19: O6,FDD/HDD,Enable,Disable
+20: H0O9,SMK512,No,Yes
+21: H1O9,A16M,No,Yes
+22: -
+23: R2,Reset & Unload Disks
+24: J,A,B,C,D
+25: jn,A,B,X,Y
+26: V,v210302

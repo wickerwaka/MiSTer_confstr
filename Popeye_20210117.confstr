@@ -1,0 +1,11 @@
+ 0: A.POPEYE
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O3,Scandoubler,Off,On
+ 4: -
+ 5: DIP
+ 6: -
+ 7: R0,Reset
+ 8: J1,Fire1,Fire2,Start 1P,Start 2P,Coin
+ 9: jn,A,B,Start,Select,R
+10: V,v210118

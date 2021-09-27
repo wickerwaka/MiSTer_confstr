@@ -1,0 +1,20 @@
+ 0: A.PHNX
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: OF,Flip Screen,Off,On
+ 6: -
+ 7: O89,Lives,3,4,5,6
+ 8: ODE,Bonus Life,3k/30k,4k/40k,5k/50k,6k/60k
+ 9: OC,Cabinet,Upright,Cocktail
+10: -
+11: H1OR,Autosave Hiscores,Off,On
+12: P1,Pause options
+13: P1OP,Pause when OSD is open,On,Off
+14: P1OQ,Dim video after 10s,On,Off
+15: -
+16: R0,Reset
+17: J1,Fire,Barrier,Start 1P,Start 2P,Coin,Pause
+18: jn,A,B,Start,Select,R,C
+19: V,v210828

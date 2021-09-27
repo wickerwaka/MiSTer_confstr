@@ -1,0 +1,11 @@
+ 0: A.CCLIMB
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: -
+ 5: O89,Lives,3,4,5,6
+ 6: -
+ 7: R0,Reset
+ 8: J1,R Right,R Left,R Down,R Up,Start 1P,Start 2P,Coin
+ 9: jn,A,Y,B,X,Start,Select,R
+10: V,v210614

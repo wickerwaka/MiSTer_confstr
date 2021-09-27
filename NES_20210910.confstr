@@ -1,0 +1,55 @@
+ 0: NES
+ 1: SS3E000000:200000,UART31250,MIDI
+ 2: FS,NESFDSNSF
+ 3: H1F2,BIN,Load FDS BIOS
+ 4: -
+ 5: ONO,System Type,NTSC,PAL,Dendy
+ 6: OG,Disk Swap,Auto,FDS button
+ 7: OCF,Palette,Smooth,Unsat.,FCEUX,NES Classic,Composite,PC-10,PVM,Wavebeam,Real,Sony CXA,YUV,Greyscale,Rockman9,Ninten.,Custom
+ 8: H3FC3,PAL,Custom Palette
+ 9: -
+10: C,Cheats
+11: H2OK,Cheats Enabled,On,Off
+12: -
+13: OH,Autosave,Off,On
+14: H5D0R6,Load Backup RAM
+15: H5D0R7,Save Backup RAM
+16: -
+17: oC,Savestates to SDCard,On,Off
+18: oDE,Savestate Slot,1,2,3,4
+19: d7rA,Save state(Alt+F1-F4)
+20: d7rB,Restore state(F1-F4)
+21: -
+22: o9,Pause when OSD is open,Off,On
+23: -
+24: P1,Audio & Video
+25: P1-
+26: P1OIJ,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+27: P1O13,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+28: P1-
+29: d6P1O5,Vertical Crop,Disabled,216p(5x)
+30: d6P1o36,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+31: P1o78,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+32: P1-
+33: P1O4,Hide Overscan,Off,On
+34: P1ORS,Mask Edges,Off,Left,Both,Auto
+35: P1OP,Extra Sprites,Off,On
+36: P1-
+37: P1OUV,Audio Enable,Both,Internal,Cart Expansion,None
+38: P2,Input Options
+39: P2-
+40: P2O9,Swap Joysticks,No,Yes
+41: P2OA,Multitap,Disabled,Enabled
+42: P2OQ,Serial Mode,None,SNAC
+43: H4P2OT,SNAC Zapper,Off,On
+44: P2o02,Periphery,None,Zapper(Mouse),Zapper(Joy1),Zapper(Joy2),Vaus,Vaus(A-Trigger),Powerpad,Family Trainer
+45: P2-
+46: P2OL,Zapper Trigger,Mouse,Joystick
+47: P2OM,Crosshairs,On,Off
+48: -
+49: R0,Reset
+50: J1,A,B,Select,Start,FDS,Mic,Zapper/Vaus Btn,PP/Mat 1,PP/Mat 2,PP/Mat 3,PP/Mat 4,PP/Mat 5,PP/Mat 6,PP/Mat 7,PP/Mat 8,PP/Mat 9,PP/Mat 10,PP/Mat 11,PP/Mat 12,Savestates
+51: jn,A,B,Select,Start,L,,R|P
+52: jp,B,Y,Select,Start,L,,R|P
+53: I,Disk 1A,Disk 1B,Disk 2A,Disk 2B,Slot=DPAD|Save/Load=Start+DPAD,Active Slot 1,Active Slot 2,Active Slot 3,Active Slot 4,Save to state 1,Restore state 1,Save to state 2,Restore state 2,Save to state 3,Restore state 3,Save to state 4,Restore state 4
+54: V,v210910

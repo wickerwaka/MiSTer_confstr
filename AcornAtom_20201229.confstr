@@ -1,0 +1,17 @@
+ 0: AcornAtom
+ 1: (null)
+ 2: -
+ 3: S,VHD
+ 4: -
+ 5: O1,Aspect ratio,4:3,16:9
+ 6: O23,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+ 7: -
+ 8: O45,Audio,Atom,SID,TAPE,off
+ 9: O67,Keyboard,UK,US,orig,game
+10: O8,character set,original,xtra
+11: O9,Background,Black,Dark
+12: OA,Mode,Atom,BBC
+13: -
+14: R0,Reset
+15: JA,Fire
+16: V,v201229

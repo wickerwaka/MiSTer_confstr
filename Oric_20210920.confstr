@@ -1,0 +1,16 @@
+ 0: Oric
+ 1: (null)
+ 2: S0,DSK,Mount Drive A:
+ 3: -
+ 4: O3,ROM,Oric Atmos,Oric 1
+ 5: O56,FDD Controller,Auto,Off,On
+ 6: O7,Drive Write,Allow,Prohibit
+ 7: -
+ 8: ODE,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 9: OAC,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+10: OFG,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+11: -
+12: O89,Stereo,Off,ABC (West Europe),ACB (East Europe)
+13: -
+14: R0,Reset & Apply
+15: V,v210920

@@ -1,0 +1,21 @@
+ 0: A.JACKAL
+ 1: (null)
+ 2: ODE,Aspect Ratio,Original,Full screen,[ARC1],[ARC2]
+ 3: OC,Orientation,Vert,Horz
+ 4: OFH,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: P1,Pause options
+ 7: P1OP,Pause when OSD is open,On,Off
+ 8: P1OQ,Dim video after 10s,On,Off
+ 9: -
+10: DIP
+11: -
+12: O36,H Center,0,-1,-2,-3,-4,-5,-6,-7,+7,+6,+5,+4,+3,+2,+1
+13: O7A,V Center,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12
+14: -
+15: H1OB,Rotary speed,Normal,Fast
+16: -
+17: R0,Reset
+18: J1,Machine Gun,Grenades/Rockets,Rotary Left,Rotary Right,Start,Coin,Pause
+19: jn,B,A,L,R,Start,Select,X
+20: V,v210725

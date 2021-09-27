@@ -1,0 +1,15 @@
+ 0: Interact
+ 1: (null)
+ 2: F,CINK7 ,Load tape
+ 3: TE,Play
+ 4: TF,Stop & Rewind
+ 5: -
+ 6: OAB,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 7: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 8: OCD,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+ 9: -
+10: O6,Test Pattern,Off,On
+11: -
+12: T0,Reset
+13: R0,Reset and close OSD
+14: V,v210815

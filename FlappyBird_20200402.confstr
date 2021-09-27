@@ -1,0 +1,10 @@
+ 0: FLAPPY
+ 1: (null)
+ 2: -
+ 3: O8,Aspect Ratio,4:3,16:9
+ 4: -
+ 5: R0,Reset
+ 6: J1,Flap,Reset
+ 7: jn,A,B
+ 8: jp,A,B
+ 9: V,v200402

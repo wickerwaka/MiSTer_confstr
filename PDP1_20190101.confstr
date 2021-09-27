@@ -1,0 +1,17 @@
+ 0: PDP1
+ 1: (null)
+ 2: -
+ 3: F,PDPRIMBIN
+ 4: T5,Enable RIM mode
+ 5: T6,Disable RIM mode
+ 6: -
+ 7: R7,Reset
+ 8: -
+ 9: O1,Aspect Ratio,Original,Wide
+10: O4,Hardware multiply,No,Yes
+11: -
+12: O8,Var. brightness,Yes,No
+13: O9,CRT wait,No,Yes
+14: -
+15: J,Left,Right,Thrust,Fire,HyperSpace
+16: V,v1.00.190101

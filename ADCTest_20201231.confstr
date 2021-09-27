@@ -1,0 +1,11 @@
+ 0: ADCTest
+ 1: (null)
+ 2: -
+ 3: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: -
+ 5: O3,Scale,3.3V,Line Level
+ 6: O4,Audio Passthru,No,Yes
+ 7: -
+ 8: T0,Reset
+ 9: R0,Reset and close OSD
+10: V,v201231

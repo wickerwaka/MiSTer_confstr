@@ -1,0 +1,70 @@
+ 0: C64
+ 1: UART9600:2400
+ 2: H7S0,D64G64T64D81,Mount #8
+ 3: H0S1,D64G64T64D81,Mount #9
+ 4: -
+ 5: F1,PRGCRTREUTAP
+ 6: h3-
+ 7: h3R7,Tape Play/Pause
+ 8: h3RN,Tape Unload
+ 9: h3OB,Tape Sound,Off,On
+10: -
+11: P1,Audio & Video
+12: P1O2,Video Standard,PAL,NTSC
+13: P1O45,Aspect Ratio,Original,Full Screen,[ARC1],[ARC2]
+14: P1O8A,Scandoubler Fx,None,HQ2x-320,HQ2x-160,CRT 25%,CRT 50%,CRT 75%
+15: d1P1o0,Vertical Crop,No,Yes
+16: P1OUV,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+17: P1-
+18: P1OD,Left SID,6581,8580
+19: D4P1o23,Left Filter,Default,Custom 1,Custom 2,Custom 3
+20: P1OG,Right SID,6581,8580
+21: D5P1o56,Right Filter,Default,Custom 1,Custom 2,Custom 3
+22: P1OKM,Right SID Port,Same,DE00,D420,D500,DF00
+23: P1FC7,FLT,Load Custom Filters
+24: P1-
+25: P1OC,Sound Expander,Disabled,OPL2
+26: P1o89,DigiMax,Disabled,DE00,DF00
+27: P1OIJ,Stereo Mix,None,25%,50%,100%
+28: P2,Hardware
+29: P2oPQ,Enable Drive #8,If Mounted,Always,Never
+30: P2oNO,Enable Drive #9,If Mounted,Always,Never
+31: P2oC,Parallel port,Enabled,Disabled
+32: P2R6,Reset Disk Drives
+33: P2-
+34: P2oK,GeoRAM,Disabled,4MB
+35: P2oLM,REU,Disabled,512KB,2MB (512KB wrap),16MB
+36: P2-
+37: P2OP,External IEC,Disabled,Enabled
+38: P2oB,Expansion,Joysticks,RS232
+39: P2oJ,RS232 mode,UP9600,VIC-1011
+40: P2o1,RS232 connection,Internal,External
+41: P2o4,Real-Time Clock,Auto,Disabled
+42: P2oD,CIA Model,6526,8521
+43: P2-
+44: P2OQR,Pot 1/2,Joy 1 Fire 2/3,Mouse,Paddles 1/2
+45: P2OST,Pot 3/4,Joy 2 Fire 2/3,Mouse,Paddles 3/4
+46: P2-
+47: P2O1,Release Keys on Reset,Yes,No
+48: P2OO,Clear RAM on Reset,Yes,No
+49: P2oI,Reset & Run PRG,Yes,No
+50: P2oA,Pause When OSD is Open,No,Yes
+51: P2o7,Tape Autoplay,Yes,No
+52: P2-
+53: P2FC8,ROM,System ROM C64+C1541 
+54: P2FC9,ROM,System ROM C1581     
+55: P2FC5,CRT,Boot Cartridge       
+56: P2-
+57: P2OEF,System ROM,Loadable C64,Standard C64,C64GS,Japanese
+58: -
+59: O3,Swap Joysticks,No,Yes
+60: -
+61: oEF,Turbo mode,Off,C128,Smart
+62: d6oGH,Turbo speed,2x,3x,4x
+63: -
+64: R0,Reset
+65: RH,Reset & Detach Cartridge
+66: J,Fire 1,Fire 2,Fire 3,Paddle Btn,Mod1,Mod2
+67: jn,A,B,Y,X|P,R,L
+68: jp,A,B,Y,X|P,R,L
+69: V,v210803

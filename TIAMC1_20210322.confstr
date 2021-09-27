@@ -1,0 +1,14 @@
+ 0: TIA-MC1
+ 1: (null)
+ 2: -
+ 3: O12,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: -
+ 5: O34,Stereo Mix,None,25%,50%,100%
+ 6: -
+ 7: O56,Analog Input,Joystick,Paddle,Spinner
+ 8: O7,Invert Axis,Yes,No
+ 9: -
+10: T0,Reset
+11: R0,Reset and close OSD
+12: J1,Button 1,Button 2,Coin/Start
+13: V,v210322

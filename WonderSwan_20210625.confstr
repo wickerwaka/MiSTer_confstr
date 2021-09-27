@@ -1,0 +1,40 @@
+ 0: WonderSwan
+ 1: SS3E000000:100000
+ 2: FS1,WSCWS PC2,Load ROM
+ 3: -
+ 4: o78,System,Auto,WonderSwan,SwanColor,PocketChallengeV2
+ 5: -
+ 6: d0r9,Reload Backup RAM
+ 7: d0rA,Save Backup RAM
+ 8: d0oB,Autosave,Off,On
+ 9: -
+10: o4,Savestates to SDCard,On,Off
+11: o56,Savestate Slot,1,2,3,4
+12: h0RS,Save state (Alt-F1)
+13: h0RT,Restore state (F1)
+14: -
+15: OAB,Orientation,Horz,Vert,Vert180,Auto
+16: OC,Flipped Horz,Off,On
+17: OGJ,CRT H-Sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+18: OKN,CRT V-Sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+19: ODE,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+20: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+21: o23,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+22: -
+23: oC,Refresh Rate,60Hz,75Hz
+24: OO,Sync core to Video,Off,On
+25: O5,Buffer video,Off,On
+26: OUV,Flickerblend,Off,2 Frames,3 Frames
+27: -
+28: O78,Stereo mix,none,25%,50%,100%
+29: OP,FastForward Sound,On,Off
+30: -
+31: O9,CPU Turbo,Off,On
+32: OQ,Pause when OSD is open,Off,On
+33: OR,Rewind Capture,Off,On
+34: -
+35: R0,Reset
+36: J1,A,B,Start,Y2/Right,Y4/Left,Y3/DOWN,Y1/UP,FastForward,Savestates,Rewind
+37: I,Slot=DPAD|Save/Load=Start+DPAD,Active Slot 1,Active Slot 2,Active Slot 3,Active Slot 4,Save to state 1,Restore state 1,Save to state 2,Restore state 2,Save to state 3,Restore state 3,Save to state 4,Restore state 4
+38: Rewinding...
+39: V,v210625

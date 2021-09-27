@@ -1,0 +1,54 @@
+ 0: SMS
+ 1: (null)
+ 2: -
+ 3: H8FS1,SMSSG
+ 4: H8FS2,GG
+ 5: DIP
+ 6: -
+ 7: C,Cheats
+ 8: H1OO,Cheats enabled,ON,OFF
+ 9: -
+10: H8D0R6,Load Backup RAM
+11: H8D0R7,Save Backup RAM
+12: H8D0OP,Autosave,OFF,ON
+13: H8-
+14: H8OA,Region,US/UE,Japan
+15: H8OB,BIOS,Enable,Disable
+16: H8OF,Disable mapper,No,Yes
+17: H8-
+18: H7o12,VDPs,Both,2,1,None
+19: H7o34,PSGs,Both,2,1,None
+20: H7-
+21: P1,Audio & Video
+22: P1-
+23: P1O2,TV System,NTSC,PAL
+24: P1OQR,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+25: P1O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+26: P1-
+27: P1OUV,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+28: P1-
+29: P1OD,Border,No,Yes
+30: D5P1OST,Masked left column,BG,Black,Cut
+31: P1O8,Sprites per line,Standard,All
+32: P1-
+33: D2P1OC,SMS FM sound,Enable,Disable
+34: P2,Input
+35: P2-
+36: P2O1,Swap joysticks,No,Yes
+37: P2OE,Multitap,Disabled,Port1
+38: D3P2OH,Pause Btn Combo,No,Yes
+39: P2-
+40: P2OG,Serial,OFF,SNAC
+41: P2-
+42: D2P2OIJ,Gun Control,Disabled,Joy1,Joy2,Mouse
+43: D4P2OK,Gun Fire,Joy,Mouse
+44: D4P2OL,Gun Port,Port1,Port2
+45: D4P2OMN,Cross,Small,Medium,Big,None
+46: P2-
+47: P2o0,Paddle,Disabled,Enabled
+48: -
+49: R0,Reset
+50: J1,Fire 1,Fire 2,Pause,Coin
+51: jn,A|P,B,Start,Coin
+52: jp,Y|P,A,Start,Coin
+53: V,v210910

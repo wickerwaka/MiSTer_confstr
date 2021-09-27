@@ -1,0 +1,18 @@
+ 0: Intellivision
+ 1: (null)
+ 2: -
+ 3: FS,ROMINTBIN
+ 4: O58,MAP,Auto,0,1,2,3,4,5,6,7,8,9
+ 5: O9,ECS,Off,On
+ 6: OA,Voice,On,Off
+ 7: O34,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 8: OCE,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 9: d0OH,Vertical Crop,Disabled,216p(5x)
+10: d0OIL,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+11: OFG,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+12: OB,Video standard,NTSC,PAL
+13: O1,Swap Joystick,Off,On
+14: -
+15: R0,Reset
+16: J1,Action Up,Action Left,Action Right,Clear,Enter,0,1,2,3,4,5,6,7,8,9
+17: V,v210809

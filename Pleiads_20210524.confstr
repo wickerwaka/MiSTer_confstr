@@ -1,0 +1,16 @@
+ 0: A.PLEIADS
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: O7,Flip Screen,Off,On
+ 6: -
+ 7: O89,Lives,3,4,5,6
+ 8: ODE,Bonus Life,3k/30k,4k/40k,5k/50k,6k/60k
+ 9: OC,Cabinet,Upright,Cocktail
+10: -
+11: R0,Reset
+12: J1,Fire,Barrier,Start 1P,Start 2P,Coin
+13: jn,A,B,Start,Select,R
+14: DEFMRA,Pleiads.mra
+15: V,v210524

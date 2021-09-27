@@ -1,0 +1,21 @@
+ 0: A.INVADERS
+ 1: (null)
+ 2: -
+ 3: H0OPQ,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: H1H0O2,Orientation,Vert,Horz
+ 5: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: O6,Flip Screen (Vert only),No,Yes
+ 7: OGJ,CRT H-Sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+ 8: OKN,CRT V-Sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+ 9: -
+10: DIP
+11: -
+12: O8,Overlay,On,Off
+13: OA,Background Graphic,On,Off
+14: -
+15: H2OCD,Gun Control,Joy1,Joy2,Mouse,Disabled
+16: H3OEF,Crosshair,Small,Medium,Big,None
+17: -
+18: R0,Reset
+19: J1,Fire 1,Fire 2,Fire 3,Fire 4,Start 1P,Start 2P,Coin
+20: V,v210823

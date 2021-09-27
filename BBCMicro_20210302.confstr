@@ -1,0 +1,20 @@
+ 0: BBCMicro
+ 1: (null)
+ 2: -
+ 3: S,VHD
+ 4: OC,Autostart,Yes,No
+ 5: -
+ 6: ODE,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 7: O23,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+ 8: OFG,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+ 9: -
+10: OA,Mouse as Joystick,Yes,No
+11: OB,Swap Joysticks,No,Yes
+12: -
+13: O4,Model,B(MOS6502),Master(R65SC12)
+14: O56,Co-Processor,None,MOS65C02
+15: O79,Default video mode,0,1,2,3,4,5,6,7
+16: -
+17: R0,Reset
+18: JA,Fire
+19: V,v210302

@@ -1,0 +1,22 @@
+ 0: Galaga
+ 1: (null)
+ 2: -,-= Analogue video output =-
+ 3: OOR,H-sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+ 4: OSV,V-sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+ 5: O8,Flip Screen,Off,On
+ 6: O35,Scandoubler FX,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 7: H0-
+ 8: H0-,-= Digital video output =-
+ 9: H0OMN,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+10: H0O2,Orientation,Vertical,Horizontal
+11: -
+12: H1OC,Autosave Hiscores,Off,On
+13: P1,Pause options
+14: P1OA,Pause when OSD is open,On,Off
+15: P1OB,Dim video after 10s,On,Off
+16: -
+17: DIP
+18: R0,Reset
+19: J1,Fire,Start 1P,Start 2P,Coin,Pause
+20: jn,A,Start,Select,R,L
+21: V,v210916

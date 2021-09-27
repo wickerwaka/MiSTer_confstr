@@ -1,0 +1,20 @@
+ 0: ZAXXON
+ 1: (null)
+ 2: -
+ 3: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: H0O2,Orientation,Vert,Horz
+ 5: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: -
+ 7: H1OR,Autosave Hiscores,Off,On
+ 8: P1,Pause options
+ 9: P1OP,Pause when OSD is open,On,Off
+10: P1OQ,Dim video after 10s,On,Off
+11: -
+12: DIP
+13: -
+14: O7,Flip,Off,On
+15: -
+16: R0,Reset
+17: J1,Fire 1,Fire 2,Start 1P,Start 2P,Coin,Pause
+18: jn,A,B,Start,Select,R,L
+19: V,v210828

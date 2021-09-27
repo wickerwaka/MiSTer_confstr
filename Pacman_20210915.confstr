@@ -1,0 +1,21 @@
+ 0: A.PACMAN
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H1H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: O7,Flip Screen,Off,On
+ 6: OQS,CRT H-sync Adjust,0,1,2,3,4,5,6,7
+ 7: OTV,CRT V-sync Adjust,0,1,2,3,4,5,6,7
+ 8: -
+ 9: H2OP,Autosave Hiscores,Off,On
+10: P1,Pause options
+11: P1ON,Pause when OSD is open,On,Off
+12: P1OO,Dim video after 10s,On,Off
+13: -
+14: DIP
+15: -
+16: R0,Reset
+17: J1,Fire,Start 1P,Start 2P,Coin,Cheat,Pause
+18: jn,A,Start,Select,R,L,X
+19: DEFMRA,Puck Man (Japan set 1).mra
+20: V,v210828

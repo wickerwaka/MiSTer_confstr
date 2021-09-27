@@ -1,0 +1,42 @@
+ 0: Amstrad
+ 1: (null)
+ 2: S0,DSK,Mount A:
+ 3: S1,DSK,Mount B:
+ 4: -
+ 5: F3,E??,Load expansion
+ 6: -
+ 7: F4,CDT,Load tape
+ 8: OK,Tape sound,Disabled,Enabled
+ 9: -
+10: OI,Joysticks swap,No,Yes
+11: -
+12: P1,Audio & Video
+13: P1-
+14: P1OPQ,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+15: P1O9A,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+16: P1-
+17: d1P1OR,Vertical Crop,No,Yes
+18: P1OST,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+19: P1OU,Pixel Clock,16MHz,Adaptive
+20: P1-
+21: P1O2,CRTC,Type 1,Type 0
+22: P1OBD,Display,Color(GA),Color(ASIC),Green,Amber,Cyan,White
+23: P1-
+24: P1O78,Stereo mix,none,25%,50%,100%
+25: P1OO,Playcity,Disabled,Enabled
+26: P2,Hardware
+27: P2-
+28: P2OJ,Mouse,Enabled,Disabled
+29: P2OM,Right Shift,Backslash,Shift
+30: P2ON,Keypad,Numbers,Symbols
+31: P2-
+32: P2OEF,Multiface 2,Enabled,Hidden,Disabled
+33: P2O6,CPU timings,Original,Fast
+34: P2OGH,FDC,Original,Fast,Disabled
+35: P2-
+36: P2O5,Distributor,Amstrad,Schneider
+37: P2O4,Model,CPC 6128,CPC 664
+38: -
+39: R0,Reset & apply model
+40: J,Fire 1,Fire 2,Fire 3
+41: V,v210227

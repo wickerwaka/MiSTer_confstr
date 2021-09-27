@@ -1,0 +1,21 @@
+ 0: Amstrad PCW
+ 1: (null)
+ 2: S0,DSK,Mount A:
+ 3: S1,DSK,Mount B:
+ 4: -
+ 5: O4,System Model,8256/8512,9256/9512+
+ 6: OFG,Memory Size,256K,512K,1MB,2MB
+ 7: O89,Clockspeed (MHz),4.00(1x),8.00(2x),16.00(4x),32.00(x8)
+ 8: -
+ 9: O56,Screen Color,White,Green,Amber
+10: O7,Video System,PAL,NTSC
+11: OIJ,Fake Colour,None,Palette 1, Palette 2, Palette 3
+12: O13,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+13: -
+14: OAC,Joystick Type,None,Kempston,Spectravideo,Cascade,DKTronics
+15: ODE,Mouse Type,None,AMX,Kempston,Keymouse
+16: OH,DKTronics I/F,Disabled,Enabled
+17: -
+18: R0,Reset
+19: J,Fire 1,Fire 2
+20: V,v200830

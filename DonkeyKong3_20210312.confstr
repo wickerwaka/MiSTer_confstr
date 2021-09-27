@@ -1,0 +1,16 @@
+ 0: A.DKONG3
+ 1: (null)
+ 2: -
+ 3: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: O2,Orientation,Vert,Horz
+ 5: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: O7,Flip Screen,Off,On
+ 7: OOS,Analog Video H-Pos,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+ 8: OTV,Analog Video V-Pos,0,1,2,3,4,5,6,7
+ 9: -
+10: DIP
+11: -
+12: R0,Reset
+13: J1,Jump,Start 1P,Start 2P,Coin,Test
+14: jn,A,Start,Select,R,L
+15: V,v210312

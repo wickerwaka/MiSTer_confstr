@@ -1,0 +1,33 @@
+ 0: VIC20
+ 1: (null)
+ 2: S0,D64G64,Mount #8
+ 3: S1,D64G64,Mount #9
+ 4: -
+ 5: F1,PRGCRTCT?TAP,Load
+ 6: -
+ 7: h3RG,Tape Play/Pause
+ 8: h3RI,Tape Unload
+ 9: h3OH,Tape Sound,Off,On
+10: h3OM,Tape Autoplay,Yes,No
+11: h3-
+12: OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+13: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+14: OCD,Screen center,Both,None,Horz,Vert
+15: OE,TV mode,PAL,NTSC
+16: H2d1ON,Vertical Crop,No,Yes
+17: h2d1ONO,Vertical Crop,No,270,216
+18: OPQ,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+19: -
+20: O6,ExtRAM 1,Off,$0400(3KB)
+21: O78,ExtRAM 2,Off,$2000-$3FFF(8KB),$2000-$5FFF(16KB),$2000-$7FFF(24KB)
+22: O9,ExtRAM 3,Off,$A000(8KB)
+23: -
+24: OL,External IEC,Disabled,Enabled
+25: OB,Cart is writable,No,Yes
+26: -
+27: OF,Kernal,Loadable,Standard
+28: FC6,ROM,Load Kernal
+29: -
+30: R0,Reset
+31: J,Fire
+32: V,v210731

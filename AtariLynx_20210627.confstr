@@ -1,0 +1,37 @@
+ 0: AtariLynx
+ 1: SS3E000000:20000
+ 2: FS,LNX
+ 3: -
+ 4: C,Cheats
+ 5: H1o7,Cheats Enabled,Yes,No
+ 6: -
+ 7: o4,Savestates to SDCard,On,Off
+ 8: o56,Savestate Slot,1,2,3,4
+ 9: h0RS,Save state (Alt-F1)
+10: h0RT,Restore state (F1)
+11: -
+12: OAB,Orientation,Horz,Vert,Vert180
+13: OF,240p Mode,Off,On
+14: OGJ,CRT H-Sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+15: OKN,CRT V-Sync Adjust,0,1,2,3,4,5,6,7,-8,-7,-6,-5,-4,-3,-2,-1
+16: ODE,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+17: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+18: o23,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+19: -
+20: OO,Sync core to 60 Hz,Off,On
+21: O5,Buffer video,Off,On
+22: OUV,Flickerblend,Off,2 Frames,3 Frames
+23: -
+24: O78,Stereo mix,none,25%,50%,100%
+25: OP,FastForward Sound,On,Off
+26: -
+27: O9,CPU GPU Turbo,Off,On
+28: o01,Fastforward Speed,400%,133%,160%,200%
+29: OQ,Pause when OSD is open,Off,On
+30: OR,Rewind Capture,Off,On
+31: -
+32: R0,Reset
+33: J1,A,B,Option1,Option2,Pause,FastForward,Savestates,Rewind
+34: I,Slot=DPAD|Save/Load=Pause+DPAD,Active Slot 1,Active Slot 2,Active Slot 3,Active Slot 4,Save to state 1,Restore state 1,Save to state 2,Restore state 2,Save to state 3,Restore state 3,Save to state 4,Restore state 4
+35: Rewinding...
+36: V,v210627

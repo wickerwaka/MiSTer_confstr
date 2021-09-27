@@ -1,0 +1,23 @@
+ 0: A.MCR3MONO
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: D5OD,Deinterlacer Hi-Res,Off,On
+ 5: -
+ 6: h1O6,Control,Mode 1,Mode 2
+ 7: h1-
+ 8: h3O6,Gas 1P,Buttons,Analog Y
+ 9: h3O78,Steering 1P,Buttons,Analog X,Paddle
+10: h3O9,Gas 2P,Buttons,Analog Y
+11: h3OAB,Steering 2P,Buttons,Analog X,Paddle
+12: h3-
+13: h4O6,Fire 1P,4Way,Fly+Fire
+14: h4O7,Fire 2P,4Way,Fly+Fire
+15: h4O8,Fire 3P,4Way,Fly+Fire
+16: h4-
+17: DIP
+18: -
+19: R0,Reset
+20: J1,Fire A,Fire B,Fire C,Fire D,Start,Coin
+21: jn,A,B,X,Y,Start,R
+22: V,v210113

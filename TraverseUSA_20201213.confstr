@@ -1,0 +1,12 @@
+ 0: A.TRAVRUSA
+ 1: (null)
+ 2: H0OGH,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: DIP
+ 7: -
+ 8: R0,Reset
+ 9: J1,Gas,Brake,Start 1P,Start 2P,Coin
+10: jn,A,B,Start,Select,R
+11: V,v201214

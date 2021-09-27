@@ -1,0 +1,17 @@
+ 0: A.ARKANOID
+ 1: (null)
+ 2: ODE,Aspect Ratio,Original,Full screen,[ARC1],[ARC2]
+ 3: OC,Orientation,Vert,Horz
+ 4: OFH,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: D1OK,Pad Control,Kbd/Joy/Mouse,Spinner
+ 7: D1OIJ,Spinner Resolution,High,Medium,Low
+ 8: -
+ 9: DIP
+10: OB,Sound chip,YM2149,AY-3-8910
+11: OA,Volume boost,Off,On
+12: -
+13: R0,Reset
+14: J1,Fire,Fast,Start P1,Coin,Start P2
+15: jn,A,B,Start,R,Select
+16: V,v210118

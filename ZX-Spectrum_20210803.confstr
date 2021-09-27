@@ -1,0 +1,40 @@
+ 0: Spectrum
+ 1: (null)
+ 2: S0,TRDIMGDSKMGT,Load Disk
+ 3: F2,TAPCSWTZX,Load Tape
+ 4: F4,Z80SNA,Load Snapshot
+ 5: S1,VHD,Load DivMMC
+ 6: -
+ 7: P1,Audio & Video
+ 8: P1-
+ 9: P1O45,Aspect Ratio,Original,Full Screen,[ARC1],[ARC2]
+10: P1OFG,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+11: P1-
+12: H2d1P1OS,Vertical Crop,No,Yes
+13: h2d1P1OST,Vertical Crop,No,270,216
+14: P1OQR,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+15: P1-
+16: P1OKL,General Sound,512KB,1MB,2MB,Disabled
+17: P1O23,Stereo Mix,none,25%,50%,100%
+18: P2,Hardware
+19: P2-
+20: P2O7,Port #FE,Issue 2,Issue 3
+21: P2OD,Port #FF,Timex,SAA1099
+22: P2OE,ULA+,Enabled,Disabled
+23: D3P2OP,Snow Bug,Disabled,Enabled
+24: P2-
+25: P2O89,Video Timings,ULA-48,ULA-128,Pentagon
+26: P2OAC,Memory,Spectrum 128K/+2,Pentagon 1024K,Profi 1024K,Spectrum 48K,Spectrum +2A/+3
+27: P2-
+28: P2o01,MMC Mode,Auto(VHD),SD Card 14MHz,SD Card 28MHz
+29: P2OUV,MMC Version,DivMMC+ESXDOS,DivMMC,ZXMMC
+30: -
+31: OHJ,Joystick,Kempston,Sinclair I,Sinclair II,Sinclair I+II,Cursor
+32: o23,Mouse,Disabled,Kempston L/R,Kempston R/L
+33: O6,Fast Tape Load,On,Off
+34: O1,Tape Sound,On,Off
+35: OMO,CPU Speed,Original,7MHz,14MHz,28MHz,56MHz
+36: -
+37: R0,Reset & Apply
+38: J,Fire 1,Fire 2
+39: V,v210803

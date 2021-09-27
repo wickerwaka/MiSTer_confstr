@@ -1,0 +1,14 @@
+ 0: A.CKONG
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: O89,Lives,3,4,5,6
+ 7: OAB,Bonus Life,7k,10k,15k,20k
+ 8: OC,Cabinet,Upright,Cocktail
+ 9: -
+10: R0,Reset
+11: J1,Jump,Start 1P,Start 2p,Coin
+12: jn,A,Start,Select,R
+13: V,v210128

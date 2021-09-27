@@ -1,0 +1,26 @@
+ 0: ZX81
+ 1: (null)
+ 2: F,O  P  ,Load tape
+ 3: -
+ 4: OLM,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 5: O6,Video frequency,50Hz,60Hz
+ 6: O7,Inverse video,Off,On
+ 7: O5,Black border,Off,On
+ 8: OCD,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+ 9: -
+10: d1ON,Vertical Crop,Disabled,216p/270p(5x)
+11: OOP,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+12: -
+13: O23,Stereo mix,none,25%,50%,100%
+14: -
+15: O4,Model,ZX81,ZX80
+16: OHI,Slow mode speed,Original,NoWait,x2,x8
+17: OAB,Main RAM,16KB,32KB,48KB,1KB
+18: OG,Low RAM,Off,8KB
+19: D0OEF,CHR$128/UDG,128 Chars,64 Chars,Disabled
+20: OJ,QS CHRS,Enabled(F1),Disabled
+21: OK,CHROMA81,Disabled,Enabled
+22: -
+23: O89,Joystick,Cursor,Sinclair,ZX81
+24: R0,Reset
+25: V,v210228

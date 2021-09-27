@@ -1,0 +1,20 @@
+ 0: Apple-II
+ 1: (null)
+ 2: -
+ 3: S,NIBDSKDO PO 
+ 4: -
+ 5: OCD,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 6: O23,Display,Color,B&W,Green,Amber
+ 7: O9B,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 8: OEF,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+ 9: OG,Pixel Clock,Double,Normal
+10: -
+11: O5,CPU,6502,65C02
+12: O4,Mocking board,Yes,No
+13: O78,Stereo mix,none,25%,50%,100%
+14: -
+15: O6,Analog X/Y,Normal,Swapped
+16: -
+17: R0,Cold Reset
+18: JA,Fire 1,Fire 2
+19: V,v210302

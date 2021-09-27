@@ -1,0 +1,16 @@
+ 0: A.LADYBG
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H1H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: P1,Pause options
+ 7: P1OP,Pause when OSD is open,On,Off
+ 8: P1OQ,Dim video after 10s,On,Off
+ 9: -
+10: DIP
+11: -
+12: R0,Reset
+13: J1,Fire,Bomb,Start 1P,Start 2P,Coin,Pause
+14: jn,A,B,Start,Select,R,L
+15: V,v210419

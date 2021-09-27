@@ -1,0 +1,18 @@
+ 0: MACPLUS
+ 1: (null)
+ 2: -
+ 3: F1,DSK,Mount Pri Floppy
+ 4: F2,DSK,Mount Sec Floppy
+ 5: -
+ 6: S0,IMGVHD,Mount SCSI-6
+ 7: S1,IMGVHD,Mount SCSI-2
+ 8: -
+ 9: O78,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+10: OBC,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+11: -
+12: O5,Speed,8MHz,16MHz
+13: ODE,CPU,68000,68010,68020
+14: O4,Memory,1MB,4MB
+15: -
+16: R0,Reset & Apply CPU+Memory
+17: V,v210324

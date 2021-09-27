@@ -1,0 +1,17 @@
+ 0: A.MCR1
+ 1: (null)
+ 2: H0OGH,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: D2OD,Deinterlacer Hi-Res,Off,On
+ 6: -
+ 7: DIP
+ 8: -
+ 9: P1,Pause options
+10: P1OP,Pause when OSD is open,On,Off
+11: P1OQ,Dim video after 10s,On,Off
+12: -
+13: R0,Reset
+14: J1,Fire A,Fire B,Fire C,Fire D,Fire E,Fire F,Start 1P, Start 2P,Coin,Pause
+15: jn,A,B,X,Y,,,Start,Select,R,L
+16: V,v210820

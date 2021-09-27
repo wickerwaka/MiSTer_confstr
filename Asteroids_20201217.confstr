@@ -1,0 +1,11 @@
+ 0: A.ASTEROID
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O34,Language,English,German,French,Spanish
+ 4: O6,Ships,3,4
+ 5: O7,Test,Off,On
+ 6: -
+ 7: R0,Reset
+ 8: J1,Fire,Thrust,Hyperspace,Start 1P, Start 2P,Coin
+ 9: jn,A,X,B,Start,Select,R
+10: V,v201218

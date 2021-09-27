@@ -1,0 +1,16 @@
+ 0: PET2001
+ 1: (null)
+ 2: -
+ 3: F,TAPPRG
+ 4: O78,TAP mode,Fast,Normal,Normal+Sound
+ 5: -
+ 6: O9A,CPU Speed,Normal,x2,x4,x8
+ 7: O3,Diag,Off,On(needs Reset)
+ 8: -
+ 9: O2,Screen Color,White,Green
+10: OBC,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+11: O46,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+12: ODE,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+13: -
+14: R0,Reset
+15: V,v210228

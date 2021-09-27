@@ -1,0 +1,22 @@
+ 0: TRS-80
+ 1: (null)
+ 2: S0,DSKJV1,Mount Disk 0:
+ 3: S1,DSKJV1,Mount Disk 1:
+ 4: -
+ 5: F2,CMD,Load Program
+ 6: F1,CAS,Load Cassette
+ 7: -
+ 8: O56,Screen Color,White,Green,Amber
+ 9: OE,Video Flicker,Off,On
+10: O7,Lowercase Type,Normal,Symbol
+11: OCD,Overscan,None,Partial,Full
+12: OF,Overscan Status Line,Off,On
+13: O13,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+14: -
+15: O4,Kbd Layout,TRS-80,PC
+16: OAB,TRISSTICK,None,BIG5,ALPHA
+17: O89,Clockspeed (MHz),1.78(1x),3.56(2x),5.34(3x),21.29(12x)
+18: -
+19: R0,Reset
+20: J,Fire
+21: V,v200618

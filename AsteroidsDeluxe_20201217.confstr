@@ -1,0 +1,13 @@
+ 0: A.ASTDELUX
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O78,Language,English,German,French,Spanish
+ 4: O56,Ships,2-4,3-5,4-6,5-7
+ 5: OBC,Bonus,10000,12000,15000,None
+ 6: -
+ 7: OA,Background Graphic,On,Off
+ 8: -
+ 9: R0,Reset
+10: J1,Fire,Thrust,Shield,Start 1P,Start 2P,Coin
+11: jn,A,B,X,Start,Select,R
+12: V,v201218

@@ -1,0 +1,19 @@
+ 0: A.XEVS
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: O89,Lives,3,1,2,5
+ 7: OAB,Difficulty,Normal,Easy,Hard,Hardest
+ 8: OG,Flags Award Bonus Life,Yes,No
+ 9: -
+10: H1OR,Autosave Hiscores,Off,On
+11: P1,Pause options
+12: P1OP,Pause when OSD is open,On,Off
+13: P1OQ,Dim video after 10s,On,Off
+14: -
+15: R0,Reset
+16: J1,Fire,Bomb,Start 1P,Start 2P,Coin,Pause
+17: jn,A,B,Start,Select,R,L
+18: V,v210828

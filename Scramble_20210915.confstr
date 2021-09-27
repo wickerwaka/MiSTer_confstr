@@ -1,0 +1,22 @@
+ 0: A.SCRMBL
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H1H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: O8,Flip Vertical,Off,On
+ 6: -
+ 7: h2O6,Rotation,Buttons,Spinner
+ 8: h2-
+ 9: h3O67,Fire Mode,4-Way,Move with Fire,Second Joystick
+10: h3-
+11: H4OR,Autosave Hiscores,Off,On
+12: P1,Pause options
+13: P1OP,Pause when OSD is open,On,Off
+14: P1OQ,Dim video after 10s,On,Off
+15: -
+16: DIP
+17: -
+18: R0,Reset
+19: J1,Fire 1,Fire 2,Fire 3,Fire 4,Start 1P,Start 2P,Coin,Pause
+20: jn,A,B,X,Y,Start,Select,R,L
+21: V,v210902

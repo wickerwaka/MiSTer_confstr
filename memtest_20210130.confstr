@@ -1,0 +1,6 @@
+ 0: MEMTEST
+ 1: (null)
+ 2: J1, Reset Freq, Reset Test, Switch IC
+ 3: jn, A, Start, B
+ 4: jp, B, Start, A
+ 5: V,v210130

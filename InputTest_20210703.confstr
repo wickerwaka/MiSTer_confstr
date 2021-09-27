@@ -1,0 +1,10 @@
+ 0: InputTest
+ 1: (null)
+ 2: -
+ 3: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: -
+ 5: F0,BIN,Load BIOS
+ 6: F1,PF,Load Font
+ 7: -
+ 8: J1,A,B,X,Y,L,R,Select,Start,C,Z
+ 9: V,v210703

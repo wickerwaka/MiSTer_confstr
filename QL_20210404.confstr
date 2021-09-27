@@ -1,0 +1,18 @@
+ 0: QL
+ 1: (null)
+ 2: S0,WIN,Mount HD image
+ 3: -
+ 4: F2,MDV,Load MDV image
+ 5: O2,MDV direction,normal,reverse
+ 6: -
+ 7: F4,ROM,Load OS
+ 8: -
+ 9: O3,Video mode,PAL,NTSC
+10: OBC,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+11: O9A,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+12: ODE,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+13: -
+14: O78,CPU speed,QL,16 Mhz,24 Mhz,Full
+15: O45,RAM,128k,640k,896k,4096k
+16: R0,Reset & unload MDV
+17: V,v210404

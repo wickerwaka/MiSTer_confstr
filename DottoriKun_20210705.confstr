@@ -1,0 +1,9 @@
+ 0: A.DOTRIKUN
+ 1: (null)
+ 2: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: -
+ 5: R0,Reset
+ 6: J1,Fire 1,Fire 2,Start,Coin
+ 7: Jn,A,B,Start,Select
+ 8: V,v210705

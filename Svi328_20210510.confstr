@@ -1,0 +1,17 @@
+ 0: SVI328
+ 1: (null)
+ 2: -
+ 3: F1,BINROM,Load Cartridge
+ 4: OF,Tape Input,File,ADC
+ 5: D0F2,CAS,Cas File
+ 6: D0TD,Tape Rewind
+ 7: -
+ 8: O12,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 9: O79,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%
+10: -
+11: O6,Border,No,Yes
+12: OAB,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+13: -
+14: O3,Joysticks swap,No,Yes
+15: R0,Reset
+16: V,v210510

@@ -1,0 +1,6 @@
+ 0: AtariST
+ 1: UART19200:9600:4800:2400:1200,MIDI
+ 2: J,A,B,C,Option,Pause,#,*,0,1,2,3,4/L,5,6/R,7/Z,8/Y,9/X
+ 3: jn,A,B,X,Select,Start,,,,,,,L,,R
+ 4: I,ST joysticks,STe joysticks,MT32-pi: SoundFont #0,MT32-pi: SoundFont #1,MT32-pi: SoundFont #2,MT32-pi: SoundFont #3,MT32-pi: SoundFont #4,MT32-pi: SoundFont #5,MT32-pi: SoundFont #6,MT32-pi: SoundFont #7,MT32-pi: MT-32 v1,MT32-pi: MT-32 v2,MT32-pi: CM-32L,MT32-pi: Unknown mode
+ 5: V,v210724

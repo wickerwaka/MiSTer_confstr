@@ -1,0 +1,62 @@
+ 0: Genesis
+ 1: (null)
+ 2: FS,BINGENMD 
+ 3: -
+ 4: O67,Region,JP,US,EU
+ 5: O89,Auto Region,File Ext,Header,Disabled
+ 6: D2ORS,Priority,US>EU>JP,EU>US>JP,US>JP>EU,JP>US>EU
+ 7: -
+ 8: C,Cheats
+ 9: H1OO,Cheats Enabled,Yes,No
+10: -
+11: D0RG,Load Backup RAM
+12: D0RH,Save Backup RAM
+13: D0OD,Autosave,Off,On
+14: -
+15: P1,Audio & Video
+16: P1-
+17: P1oGH,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+18: P1OU,320x224 Aspect,Original,Corrected
+19: P1O13,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+20: P1-
+21: d5P1o2,Vertical Crop,Disabled,216p(5x)
+22: d5P1oIL,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+23: P1oMN,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+24: P1-
+25: P1OT,Border,No,Yes
+26: P1oEF,Composite Blend,Off,On,Adaptive
+27: P1OA,CRAM Dots,Off,On
+28: P1-
+29: P1OEF,Audio Filter,Model 1,Model 2,Minimal,No Filter
+30: P1OB,FM Chip,YM2612,YM3438
+31: P1ON,HiFi PCM,No,Yes
+32: P2,Input
+33: P2-
+34: P2O4,Swap Joysticks,No,Yes
+35: P2O5,6 Buttons Mode,No,Yes
+36: P2o57,Multitap,Disabled,4-Way,TeamPlayer: Port1,TeamPlayer: Port2,J-Cart
+37: P2-
+38: P2OIJ,Mouse,None,Port1,Port2
+39: P2OK,Mouse Flip Y,No,Yes
+40: P2-
+41: P2oD,Serial,OFF,SNAC
+42: P2-
+43: P2o89,Gun Control,Disabled,Joy1,Joy2,Mouse
+44: D4P2oA,Gun Fire,Joy,Mouse
+45: D4P2oBC,Cross,Small,Medium,Big,None
+46: P3,Miscellaneous
+47: P3-
+48: P3o34,ROM Storage,Auto,SDRAM,DDR3
+49: P3-
+50: P3OPQ,CPU Turbo,None,Medium,High
+51: P3OV,Sprite Limit,Normal,High
+52: P3-
+53: -
+54: H3o0,Enable FM,Yes,No
+55: H3o1,Enable PSG,Yes,No
+56: H3-
+57: R0,Reset
+58: J1,A,B,C,Start,Mode,X,Y,Z
+59: jn,A,B,R,Start,Select,X,Y,L
+60: jp,Y,B,A,Start,Select,L,X,R
+61: V,v210725

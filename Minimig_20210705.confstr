@@ -1,0 +1,8 @@
+ 0: Minimig
+ 1: UART115200,MIDI
+ 2: J,Red(Fire),Blue,Yellow,Green,RT,LT,Pause
+ 3: jn,A,B,X,Y,R,L,Start
+ 4: jp,B,A,X,Y,R,L,Start
+ 5: - 
+ 6: I,MT32-pi: SoundFont #0,MT32-pi: SoundFont #1,MT32-pi: SoundFont #2,MT32-pi: SoundFont #3,MT32-pi: SoundFont #4,MT32-pi: SoundFont #5,MT32-pi: SoundFont #6,MT32-pi: SoundFont #7,MT32-pi: MT-32 v1,MT32-pi: MT-32 v2,MT32-pi: CM-32L,MT32-pi: Unknown mode
+ 7: V,v210705

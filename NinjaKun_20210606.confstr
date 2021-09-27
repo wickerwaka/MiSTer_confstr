@@ -1,0 +1,16 @@
+ 0: A.NinjaKun
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: -
+ 5: DIP
+ 6: -
+ 7: P1,Pause options
+ 8: P1OP,Pause when OSD is open,On,Off
+ 9: P1OQ,Dim video after 10s,On,Off
+10: -
+11: R0,Reset
+12: J1,Shot,Jump,Start 1P,Start 2P,Coin,Pause
+13: jn,A,B,Start,Select,R,L
+14: jp,B,A,Start,,Select
+15: V,v210606

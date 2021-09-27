@@ -1,0 +1,23 @@
+ 0: AY-3-8500
+ 1: (null)
+ 2: -
+ 3: O12,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: O7A,Color Pallette,Mono,Greyscale,RGB1,RGB2,Field,Ice,Christmas,Marksman,Las Vegas
+ 6: -
+ 7: OBD,Game,Tennis,Soccer,Handicap,Squash,Practice
+ 8: OE,Auto Serve,No,Yes
+ 9: OF,Size,Big,Small
+10: OG,Angle,1,2
+11: OH,Speed,Slow,Fast
+12: O6,Invisiball,OFF,ON
+13: -
+14: OIJ,Control P1,Digital,Y,X,Paddle
+15: OM,Invert P1,No,Yes
+16: OKL,Control P2,Digital,Y,X,Paddle
+17: ON,Invert P2,No,Yes
+18: -
+19: R0,Reset
+20: J,Serve
+21: jn,Start
+22: V,v210205

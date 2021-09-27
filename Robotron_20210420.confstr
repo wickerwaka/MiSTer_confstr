@@ -1,0 +1,20 @@
+ 0: A.ROBTRN
+ 1: (null)
+ 2: -
+ 3: H0OGH,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: H1H0O2,Orientation,Vert,Horz
+ 5: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: -
+ 7: h2O6,Fire,4-way,Move+Fire
+ 8: h3O67,Control,Mode 1,Mode 2,Cabinet
+ 9: h4O67,Fire,4-way,Move with Fire,Second Joystick
+10: h2h3h4-
+11: DIP
+12: -
+13: P1,Pause options
+14: P1OP,Pause when OSD is open,On,Off
+15: P1OQ,Dim video after 10s,On,Off
+16: -
+17: R0,Reset
+18: J1,Fire 1,Fire 2,Fire 3,Fire 4,Start 1P,Start 2P,Coin,Pause
+19: V,v210420

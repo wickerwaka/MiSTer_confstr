@@ -1,0 +1,16 @@
+ 0: A.SPRINT1
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 4: -
+ 5: O8,Oil Slicks,On,Off
+ 6: O9,Cycle tracks,every lap,every two laps
+ 7: OA,Extended Play,extended,normal
+ 8: OBC,Game time,150 Sec,120 Sec,90 Sec,60 Sec
+ 9: OD,Test,Off,On
+10: OG,Color,Off,On
+11: -
+12: R0,Reset
+13: J1,Gas,GearUp,GearDown,Start 1P,Coin
+14: jn,A,R,L,Start,X
+15: V,v201211

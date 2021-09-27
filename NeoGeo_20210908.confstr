@@ -1,0 +1,48 @@
+ 0: NEOGEO
+ 1: (null)
+ 2: -
+ 3: H0FS1,*,Load ROM set
+ 4: H1S1,ISOBIN,Load CD Image
+ 5: -
+ 6: H3OP,FM,ON,OFF
+ 7: H3OQ,ADPCMA,ON,OFF
+ 8: H3OR,ADPCMB,ON,OFF
+ 9: H3OS,PSG,ON,OFF
+10: H3oP,ADPCMA CH 1,ON,OFF
+11: H3oQ,ADPCMA CH 2,ON,OFF
+12: H3oR,ADPCMA CH 3,ON,OFF
+13: H3oS,ADPCMA CH 4,ON,OFF
+14: H3oT,ADPCMA CH 5,ON,OFF
+15: H3oU,ADPCMA CH 6,ON,OFF
+16: H3-
+17: O12,System Type,Console(AES),Arcade(MVS)
+18: OM,BIOS,UniBIOS,Original
+19: O3,Video Mode,NTSC,PAL
+20: -
+21: o9A,Input,Joystick or Spinner,Joystick,Spinner,Mouse(Irr.Maze)
+22: -
+23: H0O4,Memory Card,Plugged,Unplugged
+24: RL,Reload Memory Card
+25: D4RC,Save Memory Card
+26: OO,Autosave,OFF,ON
+27: H1-
+28: H1OAB,Region,US,EU,JP,AS
+29: H1OF,CD lid,Opened,Closed
+30: H2-
+31: H2O7,[DIP] Settings,OFF,ON
+32: H2O8,[DIP] Freeplay,OFF,ON
+33: H2O9,[DIP] Freeze,OFF,ON
+34: -
+35: OG,Width,320px,304px
+36: o01,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+37: OIK,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+38: -
+39: d5o2,Vertical Crop,Disabled,216p(5x)
+40: d5o36,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+41: o78,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+42: -
+43: O56,Stereo Mix,none,25%,50%,100%
+44: -
+45: RE,Reset & apply
+46: J1,A,B,C,D,Start,Select,Coin,ABC
+47: V,v210908

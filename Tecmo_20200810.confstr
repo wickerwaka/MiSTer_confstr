@@ -1,0 +1,13 @@
+ 0: A.Tecmo
+ 1: (null)
+ 2: O1,Aspect Ratio,Original,Wide
+ 3: O2,Orientation,Horz,Vert
+ 4: O3,Flip Screen,Off,On
+ 5: O46,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: O7,Debug,Off,On
+ 7: -
+ 8: DIP
+ 9: -
+10: R0,Reset
+11: J1,B0,B1,B2,Start,Coin,Pause
+12: V,v200810

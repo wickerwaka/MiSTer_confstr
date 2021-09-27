@@ -1,0 +1,31 @@
+ 0: GAMEBOY2P
+ 1: SS3E000000:40000
+ 2: FS1,GBCGB ,Load ROM
+ 3: OEF,System,Auto,Gameboy,Gameboy Color
+ 4: -
+ 5: h2R9,Load Backup RAM
+ 6: h2RA,Save Backup RAM
+ 7: OD,Autosave,Off,On
+ 8: -
+ 9: P1,Audio & Video
+10: P1-
+11: P1ON,Seperator Line,Off,On
+12: P1OC,Inverted color,No,Yes
+13: P1O12,Custom Palette,Off,Auto,On
+14: h1P1FC3,GBP,Load Palette
+15: P1-
+16: P1O34,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+17: P1OLM,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+18: P1OIK,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+19: d4P1OU,GBC Colors,Corrected,Raw
+20: P1O5,Sync Video,Off,On
+21: P1-
+22: P1O78,Stereo mix,none,25%,50%,100%
+23: P1OGH,Audioselect,GB 1,GB 2,Mixed,Split 1=L 2=R
+24: P2,Misc.
+25: P2-
+26: P2OB,Boot,Normal,Fast
+27: -
+28: R0,Reset
+29: J1,A,B,Select,Start
+30: V,v210707

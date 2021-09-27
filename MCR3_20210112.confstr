@@ -1,0 +1,14 @@
+ 0: A.MCR3
+ 1: (null)
+ 2: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H2H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: D3OD,Deinterlacer Hi-Res,Off,On
+ 6: O6,Audio,Mono,Stereo
+ 7: -
+ 8: DIP
+ 9: -
+10: R0,Reset
+11: J1,Fire A,Fire B,Fire C,Fire D,Rotate CW,Rotate CCW,Start1,Start2,Coin
+12: jn,A,B,X,Y,R,L,Start,Select
+13: V,v210112

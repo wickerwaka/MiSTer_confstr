@@ -1,0 +1,47 @@
+ 0: ATARI7800
+ 1: (null)
+ 2: FS1,A78
+ 3: FC2,ROMBIN,Load BIOS
+ 4: -
+ 5: OFG,Region,Auto,NTSC,PAL
+ 6: OC,Difficulty Right,Right,Left
+ 7: OD,Difficulty Left,Right,Left
+ 8: -
+ 9: P1,Audio & Video
+10: P1-
+11: P1O23,Stereo Mix,None,25%,50%,100%
+12: P1O4,Stereo TIA,No,Yes
+13: d0P1OM,Vertical Crop,Disabled,216p(5x)
+14: d0P1ONQ,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+15: P1ORS,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+16: P1-
+17: P1O8,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+18: P1O9B,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+19: P1OT,Show Overscan,No,Yes
+20: P1OE,Show Border,Yes,No
+21: P1OK,Composite Blending,No,Yes
+22: P1OUV,Temperature Colors,Warm,Cool,Hot
+23: P2,Peripherals
+24: P2OIJ,High Score Cart,Auto,On,Off
+25: P2O7,Swap Joysticks,No,Yes
+26: P2-
+27: P2o69,Port1 Input,Auto,None,Joystick,Lightgun,Paddle,Trakball,Keypad,Driving,STMouse,AmigaMouse,SNAC
+28: P2oAD,Port2 Input,Auto,None,Joystick,Lightgun,Paddle,Trakball,Keypad,Driving,STMouse,AmigaMouse,SNAC
+29: h1P2O5,SNAC Analog,Yes,No
+30: h1P2O6,Sega Phaser Mode,No,Yes
+31: P2oE,Quadtari,Off,On
+32: P2-
+33: P2o01,Gun Control,Joy1,Joy2,Mouse
+34: P2o2,Gun Fire,Joy,Mouse
+35: P2o45,Cross,Small,Medium,Big,None
+36: P3,Advanced
+37: P3OH,Bypass Bios,Yes,No
+38: P3O1,Clear Memory,Zero,Random
+39: P3O7,Pokey IRQ Enabled,No,Yes
+40: -
+41: R0,Reset
+42: J,Fire1,Fire2,Pause,Select,Start,Paddle
+43: jn,A|P,B,R,Select,Start,L
+44: jp,B|P,Y,R,Select,Start,L
+45: I,Paddle 1A Assigned,Paddle 1B Assigned,Paddle 2A Assigned,Paddle 2B Assigned
+46: V,v210417

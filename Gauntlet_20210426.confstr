@@ -1,0 +1,13 @@
+ 0: A.GAUNTLET
+ 1: (null)
+ 2: -
+ 3: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: -
+ 6: DIP
+ 7: -
+ 8: O7,Service,Off,On
+ 9: R0,Reset
+10: J1,Button1,Button2,Button3,Button4,Coin,VStart
+11: jn,A,B,X,Y,R,Start
+12: V,v210426

@@ -1,0 +1,15 @@
+ 0: A.MARIO
+ 1: (null)
+ 2: -
+ 3: O1,Aspect Ratio,Original,Wide
+ 4: O2,Orientation,Horz,Vert
+ 5: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 6: ODG,Analogue Sound Vol,100%,Off,10%,20%,30%,40%,50%,60%,70%,80%,90%,
+ 7: O6,Pause when OSD is open,On,Off
+ 8: -
+ 9: DIP
+10: -
+11: R0,Reset
+12: J1,Jump,Start 1P,Start 2P,Pause
+13: jn,A,Start,Select,R,L
+14: V,v210821

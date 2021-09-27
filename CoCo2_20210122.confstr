@@ -1,0 +1,33 @@
+ 0: CoCo2
+ 1: (null)
+ 2: -
+ 3: F1,CCCROM,Load Cartridge
+ 4: -
+ 5: OC,Tape Input,File,ADC
+ 6: H0F2,CAS,Load Cassette
+ 7: H0TF,Stop & Rewind
+ 8: OD,Monitor Tape Sound,No,Yes
+ 9: -
+10: P1,Video Settings
+11: P1-
+12: P1-, -= Video Settings =-
+13: P1-
+14: P1OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+15: P1OFH,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+16: P1O4,Overscan,Hidden,Visible
+17: P1O3,Artifact,Enable,Disable
+18: P1O2,Artifact Phase,Normal,Reverse
+19: -
+20: OM,Keyboard Layout,PC,CoCo
+21: OL,D-Pad Joystick emu,No,Yes
+22: OA,Swap Joysticks,Off,On
+23: -
+24: O89,Machine,CoCo2,Dragon32,Dragon64
+25: O7,Turbo,Off,On
+26: -
+27: OB,Debug display,Off,On
+28: -
+29: R0,Reset
+30: J1,Button
+31: jn,A
+32: V,v210123

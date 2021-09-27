@@ -1,0 +1,62 @@
+ 0: AO486
+ 1: UART115200:4000000(Turbo 115200),MIDI
+ 2: S0,IMG,Floppy A:
+ 3: S1,IMG,Floppy B:
+ 4: O12,Write Protect,None,A:,B:,A: & B:
+ 5: -
+ 6: S2,VHD,IDE 0-0
+ 7: S3,VHD,IDE 0-1
+ 8: -
+ 9: S4,VHDISOCUE,IDE 1-0
+10: S5,VHDISOCUE,IDE 1-1
+11: -
+12: P1,Audio & Video
+13: P1-
+14: P1OMN,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+15: P1O4,VSync,60Hz,Variable
+16: P1O8,16/24bit mode,BGR,RGB
+17: P1O9,16bit format,1555,565
+18: P1OE,Low-Res,Native,4x
+19: P1oDE,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+20: P1-
+21: P1O3,FM mode,OPL2,OPL3
+22: P1OH,C/MS,Disable,Enable
+23: P1OIJ,Speaker Volume,1,2,3,4
+24: P1OKL,Audio Boost,No,2x,4x
+25: P1oBC,Stereo Mix,none,25%,50%,100%
+26: P2,Hardware
+27: P2-
+28: P2o01,Boot 1st,Floppy/Hard Disk,Floppy,Hard Disk,CD-ROM
+29: P2o23,Boot 2nd,NONE,Floppy,Hard Disk,CD-ROM
+30: P2o45,Boot 3rd,NONE,Floppy,Hard Disk,CD-ROM
+31: P2-
+32: P2o6,IDE 1-0 CD Hot-Swap,Yes,No
+33: P2o7,IDE 1-1 CD Hot-Swap,No,Yes
+34: P2-
+35: P2OB,RAM Size,256MB,16MB
+36: P2-
+37: D2D1P2O56,CPU Clock,90MHz,15MHz,30MHz,56MHz
+38: h0P2O7,Overclock,Off,100Mhz
+39: D2P2OF,L1 Cache,On,Off
+40: D2P2OG,L2 Cache,On,Off
+41: P2-
+42: P2OA,USER I/O,MIDI,COM2
+43: h3P3,MT32-pi
+44: h3P3-
+45: h3P3OO,Use MT32-pi,Yes,No
+46: h3P3o9A,Show Info,No,Yes,LCD-On(non-FB),LCD-Auto(non-FB)
+47: h3P3-
+48: h3P3-,Default Config:
+49: h3P3OQ,Synth,Munt,FluidSynth
+50: h3P3ORS,Munt ROM,MT-32 v1,MT-32 v2,CM-32L
+51: h3P3OTV,SoundFont,0,1,2,3,4,5,6,7
+52: h3P3-
+53: h3P3r8,Reset Hanging Notes
+54: -
+55: OCD,Joystick type,2 Buttons,4 Buttons,Gravis Pro,None
+56: -
+57: R0,Reset and apply HDD
+58: J,Button 1,Button 2,Button 3,Button 4,Start,Select,R1,L1,R2,L2
+59: jn,A,B,X,Y,Start,Select,R,L
+60: I,MT32-pi: SoundFont #0,MT32-pi: SoundFont #1,MT32-pi: SoundFont #2,MT32-pi: SoundFont #3,MT32-pi: SoundFont #4,MT32-pi: SoundFont #5,MT32-pi: SoundFont #6,MT32-pi: SoundFont #7,MT32-pi: MT-32 v1,MT32-pi: MT-32 v2,MT32-pi: CM-32L,MT32-pi: Unknown mode
+61: V,v210630

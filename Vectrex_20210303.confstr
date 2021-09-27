@@ -1,0 +1,25 @@
+ 0: VECTREX
+ 1: (null)
+ 2: -
+ 3: f1,OVR
+ 4: F1,VECBINROM
+ 5: F2,OVR,Load Overlay
+ 6: OB,Skip logo,No,Yes
+ 7: -
+ 8: OGH,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 9: OIJ,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+10: O9,Frame,No,Yes
+11: O23,Phosphor persistance,1,2,3,4
+12: O56,Pseudocolor,Off,1,2,3
+13: O8,Overburn,No,Yes
+14: -
+15: OD,Overlay Alpha,On,Off
+16: OE,Color Vector,Overlay On,White always
+17: OF,Tint Vector White,On,Off
+18: -
+19: OC,Port 2,Joystick,Speech
+20: OA,CPU Model,1,2
+21: -
+22: R7,Reset
+23: J1,Button 1,Button 2,Button 3,Button 4
+24: V,v210303

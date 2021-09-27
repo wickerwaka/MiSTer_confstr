@@ -1,0 +1,49 @@
+ 0: SNES
+ 1: (null)
+ 2: FS0,SFCSMCBINBS 
+ 3: FS1,SPC
+ 4: -
+ 5: OEF,Video Region,Auto,NTSC,PAL
+ 6: O13,ROM Header,Auto,No Header,LoROM,HiROM,ExHiROM
+ 7: -
+ 8: C,Cheats
+ 9: H2OO,Cheats Enabled,Yes,No
+10: -
+11: D0RC,Load Backup RAM
+12: D0RD,Save Backup RAM
+13: D0ON,Autosave,Off,On
+14: D0-
+15: P1,Audio & Video
+16: P1-
+17: P1o01,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+18: P1O9B,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+19: P1-
+20: d5P1o7,Vertical Crop,Disabled,216p(5x)
+21: d5P1o36,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+22: P1o89,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+23: P1oA,Force 256px,Off,On
+24: P1-
+25: P1OG,Pseudo Transparency,Blend,Off
+26: P1-
+27: P1OJK,Stereo Mix,None,25%,50%,100%
+28: P2,Hardware
+29: P2-
+30: P2OH,Multitap,Disabled,Port2
+31: P2O8,Serial,OFF,SNAC
+32: P2-
+33: P2OPQ,Super Scope,Disabled,Joy1,Joy2,Mouse
+34: D4P2OR,Super Scope Btn,Joy,Mouse
+35: D4P2OST,Cross,Small,Big,None
+36: D4P2o2,Gun Type,Super Scope,Justifier
+37: P2-
+38: D1P2OI,SuperFX Speed,Normal,Turbo
+39: D3P2O4,CPU Speed,Normal,Turbo
+40: P2-
+41: P2OLM,Initial WRAM,9966(SNES2),00FF(SNES1),55(SD2SNES),FF
+42: -
+43: O56,Mouse,None,Port1,Port2
+44: O7,Swap Joysticks,No,Yes
+45: -
+46: R0,Reset
+47: J1,A(SS Fire),B(SS Cursor),X(SS TurboSw),Y(SS Pause),LT(SS Cursor),RT(SS Fire),Select,Start
+48: V,v210713

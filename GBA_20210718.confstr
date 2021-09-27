@@ -1,0 +1,44 @@
+ 0: GBA
+ 1: SS3E000000:80000
+ 2: FS,GBA,Load,300C0000
+ 3: -
+ 4: C,Cheats
+ 5: H1O6,Cheats Enabled,Yes,No
+ 6: -
+ 7: D0RC,Reload Backup RAM
+ 8: D0RD,Save Backup RAM
+ 9: D0ON,Autosave,Off,On
+10: D0-
+11: o4,Savestates to SDCard,On,Off
+12: o56,Savestate Slot,1,2,3,4
+13: h4H3RH,Save state (Alt-F1)
+14: h4H3RI,Restore state (F1)
+15: h4H3-
+16: P1,Video & Audio
+17: P1-
+18: P1o01,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+19: P1O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+20: P1O78,Stereo Mix,None,25%,50%,100%
+21: P1OLM,2XResolution,Off,Background,Sprites,Both
+22: P1O9A,Flickerblend,Off,Blend,30Hz
+23: P1OOQ,Modify Colors,Off,GBA 2.2,GBA 1.6,NDS 1.6,VBA 1.4,75%,50%,25%
+24: P1OK,Spritelimit,Off,On
+25: P1o7,Sync core to video,On,Off
+26: P1o23,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+27: P2,Hardware
+28: P2-
+29: H6P2OTV,Solar Sensor,0%,15%,30%,42%,55%,70%,85%,100%
+30: H2P2OG,Turbo,Off,On
+31: P2OS,Homebrew BIOS(Reset!),Off,On
+32: P3,Miscellaneous
+33: P3-
+34: P3OEF,Storage,Auto,SDRAM,DDR3
+35: D5P3O5,Pause when OSD is open,Off,On
+36: P3OR,Rewind Capture,Off,On
+37: - 
+38: R0,Reset
+39: J1,A,B,L,R,Select,Start,FastForward,Rewind,Savestates
+40: jn,A,B,L,R,Select,Start,X,X
+41: I,Slot=DPAD|Save/Load=Start+DPAD,Active Slot 1,Active Slot 2,Active Slot 3,Active Slot 4,Save to state 1,Restore state 1,Save to state 2,Restore state 2,Save to state 3,Restore state 3,Save to state 4,Restore state 4
+42: Rewinding...
+43: V,v210718

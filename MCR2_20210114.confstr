@@ -1,0 +1,15 @@
+ 0: A.MCR2
+ 1: (null)
+ 2: H0OGH,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H1H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: D4OD,Deinterlacer Hi-Res,Off,On
+ 6: -
+ 7: DIP
+ 8: -
+ 9: OA,Background Graphic,On,Off
+10: -
+11: R0,Reset
+12: J1,Fire A,Fire B,Fire C,Fire D,Rotate CW,Rotate CCW,Start 1P,Start 2P,Coin
+13: jn,A,B,X,Y,R,L,Start,Select
+14: V,v210114

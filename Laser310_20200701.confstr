@@ -1,0 +1,14 @@
+ 0: Laser
+ 1: (null)
+ 2: -
+ 3: F1,VZ ,Load VZ Image
+ 4: -
+ 5: O1,Aspect ratio,4:3,16:9
+ 6: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 7: O5,Turbo,Off,On
+ 8: O6,Dos Rom,Off,On
+ 9: O7,SHRG,Off,On
+10: -
+11: R0,Reset
+12: J,Fire 1,Button 2
+13: V,v200702

@@ -1,0 +1,21 @@
+ 0: A.BAGMAN
+ 1: (null)
+ 2: H0OJK,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 3: H1H0O2,Orientation,Vert,Horz
+ 4: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 5: OR,Autosave Hiscores,Off,On
+ 6: -
+ 7: DIP
+ 8: -
+ 9: h1O6,Control P1,Kbd/Joy,Spinner
+10: h1O7,Control P2,Kbd/Joy,Spinner
+11: h1-
+12: -
+13: P1,Pause options
+14: P1OL,Pause when OSD is open,On,Off
+15: P1OM,Dim video after 10s,On,Off
+16: -
+17: R0,Reset
+18: J1,Fire 1,Fire 2,Start 1P,Start 2P,Coin,Pause
+19: jn,A,B,Start,Select,R,L
+20: V,v210903

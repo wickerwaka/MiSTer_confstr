@@ -1,0 +1,17 @@
+ 0: AliceMC10
+ 1: (null)
+ 2: -
+ 3: O1,Aspect ratio,4:3,16:9
+ 4: OC,16k expansion,Off,On
+ 5: -
+ 6: OF,Tape Input,File,ADC
+ 7: D0F1,c10,Tape Load
+ 8: D0TA,Tape Play/Pause
+ 9: D0TB,Tape Rewind
+10: OD,Show tape stream,Off,On
+11: OE,Enable tape audio,Off,On
+12: -
+13: T0,Reset
+14: R0,Reset and close OSD
+15: J1,Button
+16: V,v210116

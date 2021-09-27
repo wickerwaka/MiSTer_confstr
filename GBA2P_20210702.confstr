@@ -1,0 +1,22 @@
+ 0: GBA2P
+ 1: SS3E000000:80000
+ 2: FS,GBA,Load,300C0000
+ 3: -
+ 4: D0RC,Reload Backup RAM
+ 5: D0RD,Save Backup RAM
+ 6: D0ON,Autosave,Off,On
+ 7: D0-
+ 8: O9A,Split,Vert,Horz,Screen 1,Screen 2
+ 9: OB,Seperator Line,Off,On
+10: OFG,Audioselect,GBA 1,GBA 2,Mixed,Split 1=L 2=R
+11: o01,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+12: O24,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+13: O78,Stereo Mix,None,25%,50%,100%
+14: OK,Spritelimit,Off,On
+15: o23,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+16: O5,Pause when OSD is open,Off,On
+17: - 
+18: R0,Reset
+19: J1,A,B,L,R,Select,Start
+20: jn,A,B,L,R,Select,Start
+21: V,v210702

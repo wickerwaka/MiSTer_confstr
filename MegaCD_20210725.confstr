@@ -1,0 +1,65 @@
+ 0: MegaCD
+ 1: (null)
+ 2: S0,CUE,Insert Disk
+ 3: -
+ 4: h6O67,Region,Auto(JP),JP,US,EU
+ 5: h7O67,Region,Auto(US),JP,US,EU
+ 6: h8O67,Region,Auto(EU),JP,US,EU
+ 7: -
+ 8: C,Cheats
+ 9: H5OO,Cheats Enabled,Yes,No
+10: -
+11: O3,Backup RAM,Internal,Internal+Cart
+12: D0RG,Reload Backup RAM
+13: D0RH,Save Backup RAM
+14: D0OD,Autosave,No,Yes
+15: -
+16: P1,Audio & Video
+17: P1-
+18: P1oHI,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+19: P1OU,320x224 Aspect,Original,Corrected
+20: P1o13,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+21: P1-
+22: d9P1o0,Vertical Crop,Disabled,216p(5x)
+23: d9P1oJM,Crop Offset,0,2,4,8,10,12,-12,-10,-8,-6,-4,-2
+24: P1oNO,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+25: P1- 
+26: P1OT,Border,No,Yes
+27: P1oFG,Composite Blend,Off,On,Adaptive
+28: P1OA,CRAM Dots,Off,On
+29: P1OV,Sprite Limit,Normal,High
+30: P1-
+31: P1OEF,Audio Filter,Model 1,Model 2,Minimal,No Filter
+32: P1OR,CD Audio,Unfiltered,Filtered
+33: P1O8,FM Chip,YM2612,YM3438
+34: P1ON,HiFi PCM,No,Yes
+35: P2,Input
+36: P2-
+37: P2O4,Swap Joysticks,No,Yes
+38: P2O5,6 Buttons Mode,No,Yes
+39: P2OLM,Multitap,Disabled,4-Way,TeamPlayer: Port1,TeamPlayer: Port2
+40: P2-
+41: P2OIJ,Mouse,None,Port1,Port2
+42: P2OK,Mouse Flip Y,No,Yes
+43: P2-
+44: P2o89,Gun Control,Disabled,Joy1,Joy2,Mouse
+45: D4P2oA,Gun Fire,Joy,Mouse
+46: D4P2oBC,Cross,Small,Medium,Big,None
+47: D4P2oD,Gun Type,Justifier,Menacer
+48: P2-
+49: P2oE,Serial,OFF,SNAC
+50: -
+51: H2OB,Enable FM,Yes,No
+52: H2OC,Enable PSG,Yes,No
+53: H2OP,Enable PCM,Yes,No
+54: H2OQ,Enable CDDA,Yes,No
+55: H2o4,Enable BGA,Yes,No
+56: H2o5,Enable BGB,Yes,No
+57: H2o6,Enable SPR,Yes,No
+58: H2o7,MCD RAM,Banks 2&3,Banks 0&1
+59: H2-
+60: R0,Reset & Eject CD
+61: J1,A,B,C,Start,Mode,X,Y,Z
+62: jn,A,B,R,Start,Select,X,Y,L
+63: jp,Y,B,A,Start,Select,L,X,R
+64: V,v210725

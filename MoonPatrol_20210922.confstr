@@ -1,0 +1,17 @@
+ 0: A.MOONPT
+ 1: (null)
+ 2: OGJ,CRT H adjust,0,+1,+2,+3,+4,+5,+6,+7,-8,-7,-6,-5,-4,-3,-2,-1
+ 3: OKN,CRT V adjust,0,+1,+2,+3,+4,+5,+6,+7,-8,-7,-6,-5,-4,-3,-2,-1
+ 4: O6,Video timing,Original,PAL
+ 5: -
+ 6: H0OEF,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 7: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 8: H1OR,Autosave Hiscores,Off,On
+ 9: P1,Pause options
+10: P1OP,Pause when OSD is open,On,Off
+11: P1OQ,Dim video after 10s,On,Off
+12: -
+13: R0,Reset
+14: J1,Fire,Jump,Start 1P,Start 2P,Coin,Pause
+15: jn,A,B,Start,Select,R,L
+16: V,v210922

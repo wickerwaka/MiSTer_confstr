@@ -1,0 +1,11 @@
+ 0: Arduboy
+ 1: (null)
+ 2: F0,BINHEX
+ 3: R0,Reset
+ 4: -
+ 5: O1,Orientation,Horizontal,Vertical
+ 6: O89,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 7: O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 8: OFG,ADC,Random,AnalogStick,Paddle
+ 9: J1,A,B
+10: V,v210113

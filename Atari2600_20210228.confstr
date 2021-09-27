@@ -1,0 +1,26 @@
+ 0: ATARI2600
+ 1: (null)
+ 2: F,*
+ 3: O9A,SuperChip,Auto,Disable,Enable
+ 4: -
+ 5: O1,Colors,NTSC,PAL
+ 6: O2,Video mode,Color,Mono
+ 7: OC,VBlank,Regenerate,Original
+ 8: OG,De-comb,Off,On
+ 9: OJL,Aspect ratio,Adaptive,Fixed,Full Screen,[ARC1],[ARC2]
+10: O57,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+11: OMN,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+12: -
+13: OHI,Audio,Mono,Stereo 100%,Stereo 75%,Stereo 50%
+14: -
+15: O3,Difficulty P1,B,A
+16: O4,Difficulty P2,B,A
+17: -
+18: OF,Swap Joystick,No,Yes
+19: OB,Invert Paddle,No,Yes
+20: -
+21: R0,Reset
+22: J1,Fire 1,Stick Btn,Paddle Btn,Game Reset,Game Select,Pause,Fire 2,Switch B/W,P1 difficulty,P2 difficulty
+23: jn,A,B,X|P,Start,Select,L,Y
+24: jp,A,B,X|P,Start,Select,L,Y
+25: V,v210228

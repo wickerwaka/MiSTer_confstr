@@ -1,0 +1,16 @@
+ 0: Astrocade
+ 1: (null)
+ 2: -
+ 3: F,BIN
+ 4: -
+ 5: OCD,Aspect ratio,Original,Full Screen,[ARC1],[ARC2]
+ 6: O9B,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%
+ 7: -
+ 8: d0OG,Vertical Crop,No,Yes
+ 9: OEF,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer
+10: -
+11: O7,Swap Joysticks,No,Yes
+12: -
+13: R0,Reset
+14: J1,Fire,0,1,2,3,4,5,6,7,8,9,CH,C,CE,Plus,Minus,Mul,Div,=,.,MR,MS,Prev,Next,%
+15: V,v210303
